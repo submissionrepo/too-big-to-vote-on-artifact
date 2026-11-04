@@ -100,7 +100,7 @@ work does not issue a new proof-review credential.
 
 Repository: https://github.com/submissionrepo/too-big-to-vote-on-artifact
 
-The linked manuscript PDF is included alongside its source. The release contains a ZIP of this repository.
+The release contains a ZIP of this repository.
 Original code and documentation are available under the [MIT License](LICENSE). Third-party components retain their own licenses. Source credits and third-party terms are in [THIRD_PARTY.md](THIRD_PARTY.md) and [docs/data.md](docs/data.md).
 
 Large inputs are the three `oracle-capture-*.zip` data assets of the same release. Unpack them with `scripts/unpack_data.py` before running `reproduce.py analysis`. Account profile names, biographies and profile images are removed from public trade responses; numerical fields and pseudonymous on-chain identifiers used by the scripts are retained.
