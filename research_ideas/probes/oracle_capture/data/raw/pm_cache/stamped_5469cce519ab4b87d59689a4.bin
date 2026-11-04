@@ -1,0 +1,9 @@
+q: title: Will Japan’s January 2026 unemployment rate be ≥2.7%?, description: This market will resolve according to the seasonally adjusted unemployment rate (total unemployment rate for both sexes, displayed as a percent) reported in the Japan Labour Force Survey for January 2026.
+
+The resolution source for this market is e-Stat, the portal site of Official Statistics of Japan. The monthly unemployment rate reported in the Labour Force Survey is published each month in the table titled “Labour Force participation rate, employment rate and unemployment rate” at https://www.e-stat.go.jp/en/dbview?sid=0003005865. The relevant figure may be found with ‘Rate [%]’, ‘All industries’, ‘Unemployed person’, and ‘All Japan’ selected, in the column for Both sexes and the row for the relevant month.
+
+The next data release is scheduled for March 3, 2026, according to the official calendar  (https://www.stat.go.jp/english/data/roudou/1543.html). This market will resolve as soon as the relevant data is issued. Any revisions to the data after the first release will not count toward this market's resolution.
+
+If no data for the specified month is released by the date the next month's data is scheduled to be released, this market will resolve based on data from the last available month.
+
+Note: the resolution source for this market reports unemployment to one decimal point. Thus, this is the level of precision that will be used when resolving the market. market_id: 1323424 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown. This request MUST only resolve to p1 or p2.  Updates made by the question creator via the bulletin board at 0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:2f5e3684cb1f318ec51b00edba38d79ac2c0aa9d

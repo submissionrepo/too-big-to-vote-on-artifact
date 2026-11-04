@@ -1,0 +1,9 @@
+q: title: Will the next Government of Canada be a Liberal minority?, description: The 2025 Canadian federal election will be held on April 28 to elect members of the House of Commons to the 45th Canadian Parliament.
+
+This market will resolve to the first ruling coalition that forms after the next Canadian Parliament after the election.
+
+The government will be considered formed once the legislative process for forming a government is completed and the head of state appoints ministers under normal non-caretaker circumstances.
+
+If the next Canadian Government after the election is not announced by February 28, 2026, this market will resolve to "Other".
+
+This market will resolve based on a consensus of credible reporting. In case of ambiguity, this market will resolve based on official information from the Canadian government., res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown. This request MUST only resolve to p1 or p2.  Updates made by the question creator via the bulletin board at 0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:2f5e3684cb1f318ec51b00edba38d79ac2c0aa9d

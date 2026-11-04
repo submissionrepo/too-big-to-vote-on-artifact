@@ -1,0 +1,14 @@
+{
+ "a_lo_is_mu": true,
+ "a_hi_is_1_minus_mu": true,
+ "a_ramp_lo_zero": true,
+ "a_ramp_hi_one": true,
+ "a_net": "Q + V*delta*pi*(2*mu - 1)",
+ "a_net_is_Q_minus_limit": true,
+ "b_bound_minus_gain_numerator_coeffs_nonnegative": true,
+ "b_den": "-pi*(e_1 + pi)*(e_2 + pi)*(2*mu - 1)",
+ "b_cost_minus_bound_identity": true,
+ "c_width_identity": true,
+ "d_implication": true,
+ "all_pass": true
+}

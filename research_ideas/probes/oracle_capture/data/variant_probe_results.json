@@ -1,0 +1,697 @@
+{
+ "rule=F mu=1/10 hF=0 pF=1/5": {
+  "full": "9/10",
+  "tape": "21/200",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "9/10",
+   "tape": "21/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/10 hF=0 pF=1/5": {
+  "full": "9/10",
+  "tape": "7/20",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "9/10",
+   "tape": "7/20"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/10 hF=0 pF=1/2": {
+  "full": "9/10",
+  "tape": "21/200",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "9/10",
+   "tape": "21/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/10 hF=0 pF=1/2": {
+  "full": "131/200",
+  "tape": "7/20",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "131/200",
+   "tape": "7/20"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/10 hF=0 pF=4/5": {
+  "full": "9/10",
+  "tape": "21/200",
+  "payouts_below_full": [
+   "0",
+   "4/5"
+  ],
+  "predicted": {
+   "full": "9/10",
+   "tape": "21/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/10 hF=0 pF=4/5": {
+  "full": "131/200",
+  "tape": "21/200",
+  "payouts_below_full": [
+   "0",
+   "4/5"
+  ],
+  "predicted": {
+   "full": "131/200",
+   "tape": "21/200"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/10 hF=1/10 pF=1/5": {
+  "full": "4/5",
+  "tape": "1/200",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "4/5",
+   "tape": "1/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/10 hF=1/10 pF=1/5": {
+  "full": "4/5",
+  "tape": "1/4",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "4/5",
+   "tape": "1/4"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/10 hF=1/10 pF=1/2": {
+  "full": "4/5",
+  "tape": "1/200",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "4/5",
+   "tape": "1/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/10 hF=1/10 pF=1/2": {
+  "full": "111/200",
+  "tape": "1/4",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "111/200",
+   "tape": "1/4"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/10 hF=1/10 pF=4/5": {
+  "full": "4/5",
+  "tape": "1/200",
+  "payouts_below_full": [
+   "0",
+   "4/5"
+  ],
+  "predicted": {
+   "full": "4/5",
+   "tape": "1/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/10 hF=1/10 pF=4/5": {
+  "full": "111/200",
+  "tape": "1/200",
+  "payouts_below_full": [
+   "0",
+   "4/5"
+  ],
+  "predicted": {
+   "full": "111/200",
+   "tape": "1/200"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/10 hF=1/4 pF=1/5": {
+  "full": "13/20",
+  "tape": "0",
+  "payouts_below_full": [
+   "1/5"
+  ],
+  "predicted": {
+   "full": "13/20",
+   "tape": "0"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/10 hF=1/4 pF=1/5": {
+  "full": "13/20",
+  "tape": "1/10",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "13/20",
+   "tape": "1/10"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/10 hF=1/4 pF=1/2": {
+  "full": "13/20",
+  "tape": "0",
+  "payouts_below_full": [
+   "1/2"
+  ],
+  "predicted": {
+   "full": "13/20",
+   "tape": "0"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/10 hF=1/4 pF=1/2": {
+  "full": "81/200",
+  "tape": "1/10",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "81/200",
+   "tape": "1/10"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/10 hF=1/4 pF=4/5": {
+  "full": "13/20",
+  "tape": "0",
+  "payouts_below_full": [
+   "4/5"
+  ],
+  "predicted": {
+   "full": "13/20",
+   "tape": "0"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/10 hF=1/4 pF=4/5": {
+  "full": "81/200",
+  "tape": "0",
+  "payouts_below_full": [
+   "4/5"
+  ],
+  "predicted": {
+   "full": "81/200",
+   "tape": "0"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/5 hF=0 pF=1/5": {
+  "full": "4/5",
+  "tape": "41/200",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "4/5",
+   "tape": "41/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/5 hF=0 pF=1/5": {
+  "full": "4/5",
+  "tape": "7/20",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "4/5",
+   "tape": "7/20"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/5 hF=0 pF=1/2": {
+  "full": "4/5",
+  "tape": "41/200",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "4/5",
+   "tape": "41/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/5 hF=0 pF=1/2": {
+  "full": "131/200",
+  "tape": "7/20",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "131/200",
+   "tape": "7/20"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/5 hF=0 pF=4/5": {
+  "full": "4/5",
+  "tape": "41/200",
+  "payouts_below_full": [
+   "0",
+   "4/5"
+  ],
+  "predicted": {
+   "full": "4/5",
+   "tape": "41/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/5 hF=0 pF=4/5": {
+  "full": "131/200",
+  "tape": "41/200",
+  "payouts_below_full": [
+   "0",
+   "4/5"
+  ],
+  "predicted": {
+   "full": "131/200",
+   "tape": "41/200"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/5 hF=1/10 pF=1/5": {
+  "full": "7/10",
+  "tape": "21/200",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "7/10",
+   "tape": "21/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/5 hF=1/10 pF=1/5": {
+  "full": "7/10",
+  "tape": "1/4",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "7/10",
+   "tape": "1/4"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/5 hF=1/10 pF=1/2": {
+  "full": "7/10",
+  "tape": "21/200",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "7/10",
+   "tape": "21/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/5 hF=1/10 pF=1/2": {
+  "full": "111/200",
+  "tape": "1/4",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "111/200",
+   "tape": "1/4"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/5 hF=1/10 pF=4/5": {
+  "full": "7/10",
+  "tape": "21/200",
+  "payouts_below_full": [
+   "0",
+   "4/5"
+  ],
+  "predicted": {
+   "full": "7/10",
+   "tape": "21/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/5 hF=1/10 pF=4/5": {
+  "full": "111/200",
+  "tape": "21/200",
+  "payouts_below_full": [
+   "0",
+   "4/5"
+  ],
+  "predicted": {
+   "full": "111/200",
+   "tape": "21/200"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/5 hF=1/4 pF=1/5": {
+  "full": "11/20",
+  "tape": "0",
+  "payouts_below_full": [
+   "1/5"
+  ],
+  "predicted": {
+   "full": "11/20",
+   "tape": "0"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/5 hF=1/4 pF=1/5": {
+  "full": "11/20",
+  "tape": "1/10",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "11/20",
+   "tape": "1/10"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/5 hF=1/4 pF=1/2": {
+  "full": "11/20",
+  "tape": "0",
+  "payouts_below_full": [
+   "1/2"
+  ],
+  "predicted": {
+   "full": "11/20",
+   "tape": "0"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/5 hF=1/4 pF=1/2": {
+  "full": "81/200",
+  "tape": "1/10",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "81/200",
+   "tape": "1/10"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/5 hF=1/4 pF=4/5": {
+  "full": "11/20",
+  "tape": "0",
+  "payouts_below_full": [
+   "4/5"
+  ],
+  "predicted": {
+   "full": "11/20",
+   "tape": "0"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/5 hF=1/4 pF=4/5": {
+  "full": "81/200",
+  "tape": "0",
+  "payouts_below_full": [
+   "4/5"
+  ],
+  "predicted": {
+   "full": "81/200",
+   "tape": "0"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/4 hF=0 pF=1/5": {
+  "full": "3/4",
+  "tape": "51/200",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "3/4",
+   "tape": "51/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/4 hF=0 pF=1/5": {
+  "full": "3/4",
+  "tape": "7/20",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "3/4",
+   "tape": "7/20"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/4 hF=0 pF=1/2": {
+  "full": "3/4",
+  "tape": "51/200",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "3/4",
+   "tape": "51/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/4 hF=0 pF=1/2": {
+  "full": "131/200",
+  "tape": "7/20",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "131/200",
+   "tape": "7/20"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/4 hF=0 pF=4/5": {
+  "full": "3/4",
+  "tape": "51/200",
+  "payouts_below_full": [
+   "0",
+   "4/5"
+  ],
+  "predicted": {
+   "full": "3/4",
+   "tape": "51/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/4 hF=0 pF=4/5": {
+  "full": "131/200",
+  "tape": "51/200",
+  "payouts_below_full": [
+   "0",
+   "4/5"
+  ],
+  "predicted": {
+   "full": "131/200",
+   "tape": "51/200"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/4 hF=1/10 pF=1/5": {
+  "full": "13/20",
+  "tape": "31/200",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "13/20",
+   "tape": "31/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/4 hF=1/10 pF=1/5": {
+  "full": "13/20",
+  "tape": "1/4",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "13/20",
+   "tape": "1/4"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/4 hF=1/10 pF=1/2": {
+  "full": "13/20",
+  "tape": "31/200",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "13/20",
+   "tape": "31/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/4 hF=1/10 pF=1/2": {
+  "full": "111/200",
+  "tape": "1/4",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "111/200",
+   "tape": "1/4"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/4 hF=1/10 pF=4/5": {
+  "full": "13/20",
+  "tape": "31/200",
+  "payouts_below_full": [
+   "0",
+   "4/5"
+  ],
+  "predicted": {
+   "full": "13/20",
+   "tape": "31/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/4 hF=1/10 pF=4/5": {
+  "full": "111/200",
+  "tape": "31/200",
+  "payouts_below_full": [
+   "0",
+   "4/5"
+  ],
+  "predicted": {
+   "full": "111/200",
+   "tape": "31/200"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/4 hF=1/4 pF=1/5": {
+  "full": "1/2",
+  "tape": "1/200",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "1/2",
+   "tape": "1/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/4 hF=1/4 pF=1/5": {
+  "full": "1/2",
+  "tape": "1/10",
+  "payouts_below_full": [
+   "0",
+   "1/5"
+  ],
+  "predicted": {
+   "full": "1/2",
+   "tape": "1/10"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/4 hF=1/4 pF=1/2": {
+  "full": "1/2",
+  "tape": "1/200",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "1/2",
+   "tape": "1/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/4 hF=1/4 pF=1/2": {
+  "full": "81/200",
+  "tape": "1/10",
+  "payouts_below_full": [
+   "0",
+   "1/2"
+  ],
+  "predicted": {
+   "full": "81/200",
+   "tape": "1/10"
+  },
+  "ok": true
+ },
+ "rule=F mu=1/4 hF=1/4 pF=4/5": {
+  "full": "1/2",
+  "tape": "1/200",
+  "payouts_below_full": [
+   "0",
+   "4/5"
+  ],
+  "predicted": {
+   "full": "1/2",
+   "tape": "1/200"
+  },
+  "ok": true
+ },
+ "rule=Fd mu=1/4 hF=1/4 pF=4/5": {
+  "full": "81/200",
+  "tape": "1/200",
+  "payouts_below_full": [
+   "0",
+   "4/5"
+  ],
+  "predicted": {
+   "full": "81/200",
+   "tape": "1/200"
+  },
+  "ok": true
+ },
+ "all_ok": true
+}

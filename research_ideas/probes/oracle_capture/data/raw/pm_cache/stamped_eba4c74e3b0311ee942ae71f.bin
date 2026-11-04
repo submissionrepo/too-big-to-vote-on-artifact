@@ -1,0 +1,13 @@
+q: title: Tesla launches unsupervised full self driving (FSD) by June 30?, description: This market will resolve to “Yes” if Tesla publicly releases an unsupervised Full Self-Driving capability that satisfies all of the following criteria by June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No.”
+
+1. Tesla (or Elon Musk) must label the feature “Full Self-Driving” or use an equivalent name indicating no requirement for human intervention.
+
+2. The system must operate on public roads without a human driver present or required to oversee its performance. In practice, this means either:
+- The vehicle runs with no one in the driver’s seat, or
+- The vehicle operates in a mode where no occupant is expected to monitor or intervene.
+
+3. Tesla or any Tesla-affiliated entity must make the unsupervised Full Self-Driving capability broadly accessible either through a robo-taxi or ride-hailing service open to the public, or inclusion as a standard or optional feature on newly sold Tesla vehicles, or a software update that enables unsupervised operation in current vehicles.
+
+Any mode that requires a licensed driver to be seated in the vehicle, or for a human (on-site or remote) to continuously supervise the driving performance or remain ready to intervene at any moment, will not qualify. However, remote monitoring that does not involve continuous supervision or expectation of real-time intervention—for example, oversight limited to emergency response—will not disqualify the service.
+
+This market’s resolution source will be a consensus of credible reporting. market_id: 565930 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x6A9D222616C90FcA5754cd1333cFD9b7fb6a4F74 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:157ce2d672854c848c9b79c49a8cc6cc89176a49

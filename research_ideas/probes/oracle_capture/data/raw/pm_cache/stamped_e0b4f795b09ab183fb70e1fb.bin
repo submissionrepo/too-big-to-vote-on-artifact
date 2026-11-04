@@ -1,0 +1,7 @@
+q: title: Apple Vision Pro 2 released by December 31?, description: This market will resolve to "Yes" if Apple releases a new Vision Pro product by December 31, 2025 ET. Otherwise, this market will resolve to "No".
+
+A qualifying product must be named "Apple Vision" and be recognized as a successor to the original Apple Vision Pro product, similar to the relationship between iPhone 14 and iPhone 15. A new Apple Vision product released without a number, under a designation other than Apple Vision Pro 2 will qualify if it retains the original functions of the Apple Vision Pro and expands on them in such a way that it is clear that this product is a successor.
+
+In order to be considered released, the product must be available for purchase by the general public within the specified timeframe. An announcement or unveiling alone is not sufficient.
+
+The primary resolution source for this market will be official statements from Apple. However, a consensus of credible reporting may also be used. market_id: 582191 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x157Ce2d672854c848c9b79C49a8Cc6cc89176a49 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:157ce2d672854c848c9b79c49a8cc6cc89176a49

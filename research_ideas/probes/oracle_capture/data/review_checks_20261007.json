@@ -1,0 +1,214 @@
+{
+ "A_theorem1_equilibria": {
+  "all_T": {
+   "s": "23/50",
+   "stay": "1/4",
+   "deviate": "17/33",
+   "profitable": true,
+   "break_interval": [
+    "9/20",
+    "23/50"
+   ]
+  },
+  "all_F": {
+   "s": "63/200",
+   "stay": "17/33",
+   "deviate": "69/131",
+   "profitable": true,
+   "break_interval": [
+    "31/100",
+    "8/25"
+   ]
+  },
+  "grid_break_F": [
+   "311/1000",
+   "319/1000",
+   9
+  ],
+  "grid_break_T": [
+   "451/1000",
+   "23/50",
+   10
+  ]
+ },
+ "B_event_study": {
+  "history_days": {
+   "Steem": 400,
+   "Build Finance": 400,
+   "Beanstalk": 208,
+   "Audius": 399,
+   "Mango Markets": 397,
+   "Tornado Cash": 396,
+   "Synthetify": 399,
+   "Curio": 376,
+   "Compound 289": 400,
+   "UMA": 399,
+   "Maker flash vote": 400,
+   "Venus VIP-42": 342,
+   "Curve, Mochi": 400,
+   "Compound TUSD": 400,
+   "Yam": 399,
+   "Indexed": 399
+  },
+  "as_published": {
+   "events": [
+    "Steem",
+    "Build Finance",
+    "Beanstalk",
+    "Audius",
+    "Mango Markets",
+    "Tornado Cash",
+    "Synthetify",
+    "Curio",
+    "Compound 289",
+    "UMA",
+    "Maker flash vote",
+    "Venus VIP-42",
+    "Curve, Mochi",
+    "Compound TUSD",
+    "Yam",
+    "Indexed"
+   ],
+   "drained": {
+    "n": 7,
+    "loss_median": 0.3447822495196883,
+    "loss_min": 0.07137040892114721,
+    "loss_max": 0.9969471862536056,
+    "n_sig": 4
+   },
+   "clean": {
+    "n": 9,
+    "loss_median": 0.046949100904692176,
+    "n_sig": 0
+   },
+   "pooled": {
+    "n": 9,
+    "mean_car7": 0.10356786717976886,
+    "mean_loss": -0.10912106372946284,
+    "se": 0.05779973781850421,
+    "z": 1.7918397399133579,
+    "detectable_50pct_power": 0.10710607140050632,
+    "detectable_80pct_power": 0.14950074701602067
+   },
+   "unprotected": {
+    "at_det50": 31,
+    "at_det80": 21,
+    "at_drained_median": 16,
+    "of": 127
+   }
+  },
+  "year_of_history": {
+   "events": [
+    "Steem",
+    "Build Finance",
+    "Audius",
+    "Mango Markets",
+    "Tornado Cash",
+    "Synthetify",
+    "Curio",
+    "Compound 289",
+    "UMA",
+    "Maker flash vote",
+    "Curve, Mochi",
+    "Compound TUSD",
+    "Yam",
+    "Indexed"
+   ],
+   "drained": {
+    "n": 6,
+    "loss_median": 0.2523246346545512,
+    "loss_min": 0.07137040892114721,
+    "loss_max": 0.9969471862536056,
+    "n_sig": 3
+   },
+   "clean": {
+    "n": 8,
+    "loss_median": 0.0423486904278908,
+    "n_sig": 0
+   },
+   "pooled": {
+    "n": 8,
+    "mean_car7": 0.13422338337208023,
+    "mean_loss": -0.14364826311816148,
+    "se": 0.05436407079358944,
+    "z": 2.4689722718098537,
+    "detectable_50pct_power": 0.10107311651270323,
+    "detectable_80pct_power": 0.14127485640782644
+   },
+   "unprotected": {
+    "at_det50": 31,
+    "at_det80": 22,
+    "at_drained_median": 19,
+    "of": 127
+   }
+  },
+  "year_of_history_without_indexed": {
+   "events": [
+    "Steem",
+    "Build Finance",
+    "Audius",
+    "Mango Markets",
+    "Tornado Cash",
+    "Synthetify",
+    "Curio",
+    "Compound 289",
+    "UMA",
+    "Maker flash vote",
+    "Curve, Mochi",
+    "Compound TUSD",
+    "Yam"
+   ],
+   "drained": {
+    "n": 6,
+    "loss_median": 0.2523246346545512,
+    "loss_min": 0.07137040892114721,
+    "loss_max": 0.9969471862536056,
+    "n_sig": 3
+   },
+   "clean": {
+    "n": 7,
+    "loss_median": 0.046949100904692176,
+    "n_sig": 0
+   },
+   "pooled": {
+    "n": 7,
+    "mean_car7": -0.005480853776140608,
+    "mean_loss": 0.0054658613001115075,
+    "se": 0.04716664894826144,
+    "z": -0.11620189049581892,
+    "detectable_50pct_power": 0.08830213478618543,
+    "detectable_80pct_power": 0.12378350984065967
+   },
+   "unprotected": {
+    "at_det50": 35,
+    "at_det80": 27,
+    "at_drained_median": 19,
+    "of": 127
+   }
+  }
+ },
+ "C_per_round": {
+  "market_rounds": 127,
+  "rounds": 85,
+  "rounds_with_several": 21,
+  "max_per_round": 10,
+  "penalty": {
+   "delta": 0.001,
+   "market_rounds_over_alone": 91,
+   "rounds_over_summed": 73,
+   "market_rounds_in_rounds_over": 114
+  },
+  "tenth": {
+   "delta": 0.1,
+   "market_rounds_over_alone": 31,
+   "rounds_over_summed": 30,
+   "market_rounds_in_rounds_over": 46
+  },
+  "third": {
+   "delta": 0.3333333333333333,
+   "market_rounds_over_alone": 16,
+   "rounds_over_summed": 16,
+   "market_rounds_in_rounds_over": 20
+  }
+ }
+}

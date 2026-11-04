@@ -1,0 +1,9 @@
+q: title: Will Donald Trump post 40-59 Truth Social posts from March 24 to March 31, 2026?, description: This market will resolve according to the number of times Donald Trump (@realDonaldTrump), posts on Truth Social between March 24, 12:00 PM ET and March 31, 2026, 12:00 PM ET.
+
+For the purposes of this market, only main feed posts, quote posts and reposts will count.
+
+Replies will NOT count towards the total - however, replies which are recorded on the main feed will be counted by the tracker.
+
+Deleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).
+
+The resolution source for this market is the "Post Counter" figure for posts found at https://xtracker.polymarket.com. Individual posts can be viewed by clicking "Export Data". If the tracker does not update correctly in accordance with the rules, Truth Social itself may be used as a secondary resolution source. market_id: 1668520 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown. This request MUST only resolve to p1 or p2.  Updates made by the question creator via the bulletin board at 0x69c47De9D4D3Dad79590d61b9e05918E03775f24 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:69c47de9d4d3dad79590d61b9e05918e03775f24

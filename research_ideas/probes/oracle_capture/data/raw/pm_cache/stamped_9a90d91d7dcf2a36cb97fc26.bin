@@ -1,0 +1,7 @@
+q: title: Grok 4 released by September 30?, description: This market will resolve to "Yes" if xAI's Grok 4 model is made available to the general public by September 30, 2025, 11:59 PM ET. Otherwise, this market will resolve to "No."
+
+For this market to resolve to "Yes," Grok 4 must be launched and publicly accessible, including via open beta or open rolling waitlist signups. A closed beta or any form of private access will not suffice. The release must be clearly defined and publicly announced by Anthropic as being accessible to the general public.
+
+Claude 4 refers to a product explicitly named Claude 4 (e.g. Grok 4.0 would count), or one that is recognized as a successor to Grok 3, similar to the progression from Grok 2 to Grok 3. Products labeled as Grok 3.5 or similar will not count for this market's resolution.
+
+The primary resolution source for this market will be official information from xAI, with additional verification from a consensus of credible reporting. market_id: 549330 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x6A9D222616C90FcA5754cd1333cFD9b7fb6a4F74 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:6a9d222616c90fca5754cd1333cfd9b7fb6a4f74

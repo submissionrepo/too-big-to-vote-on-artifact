@@ -1,0 +1,13 @@
+q: title: Will Reform UK win the second-most council seat elections in the 2026 United Kingdom local elections?, description: United Kingdom local elections are scheduled to be held on May 7, 2026. 
+
+This market will resolve according to the party whose official candidates win the second-most council seats for the United Kingdom's metropolitan boroughs, London borough councils, unitary authorities, county councils, and district councils in the 2026 United Kingdom Local Elections.
+
+A candidate will be considered an official candidate of a party if they are officially nominated by that party and are registered for the relevant election in affiliation with that party. Independent candidates will not count for any party.
+
+Only elections for the United Kingdom’s metropolitan boroughs, London borough councils, unitary authorities, county councils, and district councils taking place on May 7, 2026, or rescheduled to within seven days thereafter, will be counted for this market.
+
+Parties will be ranked primarily by the number of relevant council seat elections won. In the case of a tie between two or more parties, the party whose name comes first in alphabetical order, as listed in this market group, will be ranked ahead. This market will resolve to the party that occupies second place under this ranking.
+
+Resolution of this market will be based on the results of the relevant elections, once those results are official. This market will remain open until the results of all of the relevant elections are made official. If the results of any of the relevant 2026 United Kingdom local elections aren’t known by April 30, 2027 11:59 PM ET, the winning party will be determined based on the available results up to that point. If none of the results of the relevant 2026 United Kingdom local elections are known by that time, this market will resolve to “Other”.
+
+This market will resolve based on the results of the elections as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the respective council government. market_id: 2166768 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown. This request MUST only resolve to p1 or p2.  Updates made by the question creator via the bulletin board at 0x69c47De9D4D3Dad79590d61b9e05918E03775f24 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:69c47de9d4d3dad79590d61b9e05918e03775f24

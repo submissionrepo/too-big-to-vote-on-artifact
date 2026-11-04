@@ -1,0 +1,15 @@
+q: title: Ukraine strike in Russia on 25 November 2025?, description: This market will resolve to "Yes" if the Ukrainian armed forces initiate a drone, missile, or air strike on Russian soil on the listed date Moscow Standard Time (MSK). Otherwise, this market will resolve to "No".
+
+For the purposes of this market, “Russian ground territory” and “Russian soil” refer exclusively to internationally recognized Russian territory as defined by pre-2014 borders.
+
+For the purposes of this market, a qualifying "strike" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Ukrainian armed forces that impact Russian ground territory.
+
+A strike on any area within the terrestrial territory of Russia counts.
+
+Missiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient for a "Yes" resolution, regardless of whether they land on Russian territory or cause damage.
+
+Actions such as artillery fire, small arms fire, FPV or ATGM strikes, ground incursions, naval shelling, cyberattacks, or other operations conducted by the Ukrainian armed forces will not qualify.
+
+The primary resolution source will be official government/military statements (Ukrainian or Russian), multilateral bodies (UN, etc.), or a consensus of credible reporting from major international media and national broadcasters/newspapers.
+
+If the date/time of a strike cannot be confirmed by a consensus of credible reporting within 48 hours of this market's end date, it will resolve to "No" regardless of whether a strike was later confirmed to have taken place. market_id: 693529 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

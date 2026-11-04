@@ -1,0 +1,17 @@
+q: title: Will Amazon say "Sponsored Products" during earnings call?, description: This market will resolve based on the next earnings announcement of Amazon currently scheduled to take place on October 30, 2025 at 5:00 PM EDT.
+
+This market will resolve to "Yes" if the listed term is mentioned by anyone during this event. Otherwise, the market will resolve to "No".
+
+Any usage of the term, regardless of context, will count toward the resolution of this market.
+
+Pluralization/possessive of the term will count toward the resolution of this market; however, other forms will NOT count.
+
+Instances where the term is used in a compound word will count regardless of context (e.g. joyful is not a compound word for "joy," however "killjoy" is a compounding of the words "kill" and "joy").
+
+If this market requires a specified number of mentions of a person’s first or last name, a full-name mention will count as one mention (e.g., if a market is about “Joe / Biden 5+ times,” a mention of “Joe Biden” will count once).
+
+A Q&A event will count toward the resolution of this market.
+
+If this event is definitely cancelled, or otherwise is not aired by December 31, 2025, 11:59 PM ET, this market will resolve to "No".
+
+The resolution source will be audio of the event. market_id: 647085 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

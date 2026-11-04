@@ -1,0 +1,11 @@
+q: title: Will Hezbollah conduct military action against Israel on March 22, 2026?, description: This market will resolve to "Yes" if Hezbollah initiates a drone, missile, or air strike that impacts Israeli ground territory on the specified date, Israel Standard Time (UTC+2). Otherwise, this market will resolve to "No".
+
+For the purposes of this market, a qualifying "military action" is defined as the use of aerial bombs, drones, or missiles (including cruise or ballistic missiles) launched by Hezbollah forces that physically impact land under Israeli control.
+
+Israeli ground territory, for the purposes of this market, refers to land internationally recognized as part of the State of Israel, including all territory under de facto Israeli government administration as of market creation. This includes the Israeli-controlled Golan Heights and East Jerusalem, but excludes the West Bank and Gaza Strip.
+
+Missiles or drones that are intercepted before reaching the ground, or surface-to-air missile strikes, will not qualify for a "Yes" resolution, regardless of whether debris lands on Israeli soil or causes damage.
+
+The resolution source will be a consensus of credible reporting.
+
+If the date/time of a strike cannot be confirmed by a consensus of credible reporting by the end of the third calendar date after this market's end date, it will resolve to "No" regardless of whether a strike was later confirmed to have taken place. market_id: 1662524 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

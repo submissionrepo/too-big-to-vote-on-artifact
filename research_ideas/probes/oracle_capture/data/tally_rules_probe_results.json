@@ -1,0 +1,184 @@
+{
+ "N": 40,
+ "staked_0.50": {
+  "theta_F_exact": "1/2",
+  "theta_F_grid": "21/40",
+  "deadlock_width_grid": "1/40",
+  "deadlock_band": [
+   "1/2",
+   "1/2"
+  ],
+  "kappa": "1/2",
+  "kappa_split_F_T_abstain": [
+   "0",
+   "0",
+   "1/2"
+  ],
+  "sigma_cap": {
+   "0": "21/40",
+   "1/10": "17/40",
+   "1/4": "11/40",
+   "11/40": "1/4"
+  },
+  "claim_cap_equals_full_participation_threshold": true,
+  "claim_kappa_in_bounds": true,
+  "kappa_lower_1_minus_thetaF": "1/2",
+  "kappa_upper_2_1_minus_thetaF": "1",
+  "claim_deadlock_width": true,
+  "deadlock_pred": "0"
+ },
+ "staked_0.65": {
+  "theta_F_exact": "13/20",
+  "theta_F_grid": "27/40",
+  "deadlock_width_grid": "13/40",
+  "deadlock_band": [
+   "7/20",
+   "13/20"
+  ],
+  "kappa": "7/20",
+  "kappa_split_F_T_abstain": [
+   "0",
+   "0",
+   "7/20"
+  ],
+  "sigma_cap": {
+   "0": "27/40",
+   "1/10": "23/40",
+   "1/4": "17/40",
+   "11/40": "2/5"
+  },
+  "claim_cap_equals_full_participation_threshold": true,
+  "claim_kappa_in_bounds": true,
+  "kappa_lower_1_minus_thetaF": "7/20",
+  "kappa_upper_2_1_minus_thetaF": "7/10",
+  "claim_deadlock_width": true,
+  "deadlock_pred": "3/10"
+ },
+ "votes_0.50": {
+  "theta_F_exact": "1/2",
+  "theta_F_grid": "21/40",
+  "deadlock_width_grid": "1/40",
+  "deadlock_band": [
+   "1/2",
+   "1/2"
+  ],
+  "kappa": "1",
+  "kappa_split_F_T_abstain": [
+   "0",
+   "0",
+   "1"
+  ],
+  "sigma_cap": {
+   "0": "21/40",
+   "1/10": "17/40",
+   "1/4": "11/40",
+   "11/40": "1/4"
+  },
+  "claim_cap_equals_full_participation_threshold": true,
+  "claim_kappa_in_bounds": true,
+  "kappa_lower_1_minus_thetaF": "1/2",
+  "kappa_upper_2_1_minus_thetaF": "1",
+  "claim_deadlock_width": true,
+  "deadlock_pred": "0"
+ },
+ "votes_0.65": {
+  "theta_F_exact": "13/20",
+  "theta_F_grid": "27/40",
+  "deadlock_width_grid": "13/40",
+  "deadlock_band": [
+   "7/20",
+   "13/20"
+  ],
+  "kappa": "7/10",
+  "kappa_split_F_T_abstain": [
+   "7/20",
+   "7/20",
+   "0"
+  ],
+  "sigma_cap": {
+   "0": "27/40",
+   "1/10": "23/40",
+   "1/4": "17/40",
+   "11/40": "2/5"
+  },
+  "claim_cap_equals_full_participation_threshold": true,
+  "claim_kappa_in_bounds": true,
+  "kappa_lower_1_minus_thetaF": "7/20",
+  "kappa_upper_2_1_minus_thetaF": "7/10",
+  "claim_deadlock_width": true,
+  "deadlock_pred": "3/10"
+ },
+ "conj_0.60_0.20": {
+  "theta_F_exact": "4/5",
+  "theta_F_grid": "4/5",
+  "deadlock_width_grid": "23/40",
+  "deadlock_band": [
+   "9/40",
+   "31/40"
+  ],
+  "kappa": "17/40",
+  "kappa_split_F_T_abstain": [
+   "0",
+   "0",
+   "17/40"
+  ],
+  "sigma_cap": {
+   "0": "4/5",
+   "1/10": "7/10",
+   "1/4": "11/20",
+   "11/40": "21/40"
+  },
+  "claim_cap_equals_full_participation_threshold": true,
+  "claim_kappa_in_bounds": true,
+  "kappa_lower_1_minus_thetaF": "1/5",
+  "kappa_upper_2_1_minus_thetaF": "2/5",
+  "claim_deadlock_width": true,
+  "deadlock_pred": "3/5"
+ },
+ "conj_0.55_0.30": {
+  "theta_F_exact": "7/10",
+  "theta_F_grid": "7/10",
+  "deadlock_width_grid": "3/8",
+  "deadlock_band": [
+   "13/40",
+   "27/40"
+  ],
+  "kappa": "19/40",
+  "kappa_split_F_T_abstain": [
+   "0",
+   "0",
+   "19/40"
+  ],
+  "sigma_cap": {
+   "0": "7/10",
+   "1/10": "3/5",
+   "1/4": "9/20",
+   "11/40": "17/40"
+  },
+  "claim_cap_equals_full_participation_threshold": true,
+  "claim_kappa_in_bounds": true,
+  "kappa_lower_1_minus_thetaF": "3/10",
+  "kappa_upper_2_1_minus_thetaF": "3/5",
+  "claim_deadlock_width": true,
+  "deadlock_pred": "2/5"
+ },
+ "kappa_attainment": {
+  "staked_0.65_kappa": "7/20",
+  "staked_lower_bound": "7/20",
+  "votes_0.65_kappa": "7/10",
+  "votes_upper_bound": "7/10",
+  "votes_0.50_kappa": "1",
+  "conj_0.60_0.20_kappa": "17/40",
+  "conj_upper_bound": "2/5",
+  "staked_attains_lower": true,
+  "votes_attains_upper": true,
+  "conj_within_one_step_of_upper": true
+ },
+ "realistic_capture_pi096": {
+  "staked": "7/20",
+  "votes": "13/40",
+  "closed_form_staked": "152814137/456914980",
+  "closed_form_votes": "880839672/2855718625"
+ },
+ "all_claims_ok": true
+}

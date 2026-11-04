@@ -1,0 +1,19 @@
+q: title: NYA (NYA) Up or Down on October 24?, description: This market will resolve to "Up" if the official NYSE Composite Index closing price for NYA (NYA) on Friday, October 24, 2025 is higher than the official NYSE Composite Index closing price for NYA on the most recent prior trading day.
+
+This market will resolve to "Down" if the official NYSE Composite Index closing price for NYA (NYA) on Friday, October 24, 2025 is lower than the official NYSE Composite Index closing price for NYA on the most recent prior trading day.
+
+E.g., ordinarily, a market on Monday would refer to the previous Friday for its most recent closing price, unless that Friday were a market holiday, in which case it would refer to Thursday, or the next most recent trading day.
+
+If the two specified closing prices are exactly equal, this market will resolve 50-50. Note that all figures will be rounded to the nearest cent using standard rounding.
+
+If NYA does not trade at all during the regular session, the market will resolve 50-50.
+
+If either of the relevant days are shortened (for example, due to a market holiday schedule), the official closing price published by NYSE Composite Index for that shortened session will still be used for resolution.
+
+If either of the relevant days have no official closing price (for example, due to a trading halt into the market close, system issue, delisting, or other disruption), the market will use the last valid on-exchange trade price of the regular session as the effective closing price.
+
+The resolution source for this market is the Wall Street Journal, specifically the Close values published by the WSJ under "Historical Prices".
+
+US: https://www.wsj.com/market-data/stocks
+EMEA: https://www.wsj.com/market-data/stocks/emea 
+ASIA: https://www.wsj.com/market-data/stocks/asia market_id: 646309 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to Down, p2 to Up, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

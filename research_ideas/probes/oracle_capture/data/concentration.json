@@ -1,0 +1,39 @@
+{
+ "cumulativeStake": 19357995.33107913,
+ "top1": 0.16857001226342602,
+ "top2": 0.2518171079926572,
+ "top3": 0.31186913030349867,
+ "top5": 0.4294348897351471,
+ "top10": 0.5983829854749924,
+ "nStakersNonzero": 7935,
+ "stallThreshold_1_minus_spat": 0.35,
+ "smallest_k_reaching_35pct": 4,
+ "smallest_k_reaching_65pct": 13,
+ "delegates_top5": [
+  {
+   "delegate": "0x2f8320c2dc28681aa5bbf92e79c37be656a7d5f1",
+   "stakeControlled": 3263177.5103553524,
+   "shareOfCumulative": 0.16857001226342605
+  },
+  {
+   "delegate": "0x2ec20e5aa17f736060356f6b186208d5ce0ab4b4",
+   "stakeControlled": 1611496.8904523547,
+   "shareOfCumulative": 0.08324709572923121
+  },
+  {
+   "delegate": "0xb21be96dc75717272402ef97a5cc144544263e3c",
+   "stakeControlled": 1162486.7675151287,
+   "shareOfCumulative": 0.060052022310841474
+  },
+  {
+   "delegate": "0x099af188e9c68b91617efe4b09ee8cd90ba4c63d",
+   "stakeControlled": 1149045.325058148,
+   "shareOfCumulative": 0.05935766102874113
+  },
+  {
+   "delegate": "0x54b74d49cbfb92343e4607f260be721b208b4dfb",
+   "stakeControlled": 1126792.0971144745,
+   "shareOfCumulative": 0.05820809840290734
+  }
+ ]
+}

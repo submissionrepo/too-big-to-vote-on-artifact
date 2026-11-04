@@ -1,0 +1,21 @@
+q: title: Will "Donk" be said during the PGL Bucharest 2026 Grand Final?, description: The PGL Bucharest 2026 Grand Final is scheduled for April 11, 2026.
+
+This market will resolve to "Yes" if the listed term is mentioned by anyone during the official English broadcast of the PGL Bucharest 2026 Grand Finals. Otherwise, this market will resolve to "No".
+
+Mentions of the term originating from in-game audio—even in-game characters, the in-game announcer, or player voice comms—will also count toward this market's resolution.
+
+If prerecorded clips are aired where people are speaking, those clips will count toward this market's resolution.
+
+AI-generated audio or video WILL count toward this market's resolution.
+
+Any usage of the term, regardless of context, will count toward the resolution of this market.
+
+Plural and possessive forms of the listed term will count toward the resolution of this market regardless of context; however, other forms will NOT count.
+
+Instances where the term is used in a compound word will count regardless of context (e.g. joyful is not a compound word for "joy," however "killjoy" is a compounding of the words "kill" and "joy").
+
+If this market requires a specified number of mentions of a person’s first or last name, a full-name mention will count as one mention (e.g., if a market is about “Joe / Biden 5+ times,” a mention of “Joe Biden” will count once).
+
+If this event is definitively cancelled or otherwise not aired by April 31, 2026, 11:59 PM ET, this market will resolve to "No".
+
+The resolution source for this market will be the official English livestream of the PGL Bucharest 2026 Grand Final at https://www.youtube.com/@pgl. market_id: 1891674 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

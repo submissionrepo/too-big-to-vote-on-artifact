@@ -1,0 +1,11 @@
+q: title: Will Khalil Mack play for New York Jets in 2026-27?, description: This market will resolve to the next team Khalil Mack officially joins by August 31, 2026, 11:59 PM ET.
+
+If Khalil Mack does not officially join a new team by August 31, 2026, 11:59 PM ET, this market will resolve to “Other”.
+
+If Khalil Mack joins a team that is not listed, this market will resolve to “Other”.
+
+If Khalil Mack is released, retires, or is not under contract with any professional team by August 31, 2026, 11:59 PM ET, this market will resolve to “Other”.
+
+An official signing announcement prior to the market’s close date will immediately resolve this market to the corresponding option.
+
+The primary resolution sources for this market will be official announcements from the NFL and/or the acquiring team. A consensus of credible media reporting may also be used to resolve the market. market_id: 1486371 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown. This request MUST only resolve to p1 or p2.  Updates made by the question creator via the bulletin board at 0x69c47De9D4D3Dad79590d61b9e05918E03775f24 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:69c47de9d4d3dad79590d61b9e05918e03775f24

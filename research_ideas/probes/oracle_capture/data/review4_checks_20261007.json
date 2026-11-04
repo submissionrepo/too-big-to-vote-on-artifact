@@ -1,0 +1,62 @@
+{
+ "A_example": {
+  "OI": "6000",
+  "payout_gain": "4600",
+  "price_loss": "4600",
+  "pool_honest": "115",
+  "pool_manipulated_at_lower_price": "1173/5",
+  "net": 119.6
+ },
+ "B_repaired_iv": {
+  "instances": 19970,
+  "max_profit_at_limit": 0.0,
+  "pool_gain_bound_lambda_over_theta_holds": true,
+  "instances_beyond_the_tighter_bound": 846
+ },
+ "C_counts_net": {
+  "detectable": {
+   "delta": 0.14127485640782644,
+   "beyond": 22,
+   "beyond_net": 22
+  },
+  "drained_median": {
+   "delta": 0.2523246346545512,
+   "beyond": 19,
+   "beyond_net": 19
+  },
+  "one": {
+   "delta": 1.0,
+   "beyond": 4,
+   "beyond_net": 4
+  }
+ },
+ "D_neg_risk": {
+  "market_rounds": 127,
+  "neg_risk": 35,
+  "unknown": 13,
+  "penalty": {
+   "beyond": 91,
+   "neg_risk_beyond": 20,
+   "beyond_without_neg_risk": 71
+  },
+  "detectable": {
+   "beyond": 22,
+   "neg_risk_beyond": 2,
+   "beyond_without_neg_risk": 20
+  },
+  "drained_median": {
+   "beyond": 19,
+   "neg_risk_beyond": 2,
+   "beyond_without_neg_risk": 17
+  },
+  "one": {
+   "beyond": 4,
+   "neg_risk_beyond": 0,
+   "beyond_without_neg_risk": 4
+  },
+  "largest_ratio_market": {
+   "title": "Israel x Hezbollah ceasefire by April 18, 2026?",
+   "neg_risk": false
+  }
+ }
+}

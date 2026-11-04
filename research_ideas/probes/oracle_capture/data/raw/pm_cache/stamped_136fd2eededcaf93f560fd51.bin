@@ -1,0 +1,11 @@
+q: title: Will SOLV Energy, Inc.'s market cap be less than $3.8B at market close on IPO day?, description: This market will resolve based on SOLV Energy’s market capitalization at the closing price on its first day of trading.
+
+As of market creation, the IPO is scheduled to price on February 11, 2026 (ET). If no such IPO occurs by March 31, 2026, 11:59 PM ET, the market will resolve to "No IPO before April 2026".
+
+Market capitalization expresses the monetary value of a company’s outstanding shares, stated in its pricing currency. It is calculated as the number of shares outstanding multiplied by the closing share price on the first trading day.
+
+If the relevant value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Resolution will be based on the primary exchange’s official listing page. In the event that the relevant figure is not displayed, another reliable source will be used.
+
+In the event of an interruption in the course of the normal trading session on the specified company’s first day of trading (e.g., a circuit breaker or half-day), the market will resolve according to the official closing price of the abbreviated session. If no such official closing price is published, the market will resolve according to the next trading day on which an official closing price is published, treating that as the first day of trading for purposes of this market. market_id: 1340803 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown. This request MUST only resolve to p1 or p2.  Updates made by the question creator via the bulletin board at 0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:2f5e3684cb1f318ec51b00edba38d79ac2c0aa9d

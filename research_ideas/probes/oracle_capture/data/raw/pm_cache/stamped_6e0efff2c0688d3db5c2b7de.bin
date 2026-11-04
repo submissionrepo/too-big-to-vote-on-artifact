@@ -1,0 +1,20 @@
+q: title: Will Bitcoin (BTC) drop below $102,000 from June 20 to 23 (London time)?, description: This market will resolve to "Yes" if the Binance BTC/USDT 1-minute candlestick shows any closing price strictly below $102,000 between June 20, 2025 at 00:00 and June 23, 2025 at 24:00 London time (UTC+1).
+Otherwise, the market will resolve to "No".
+
+✅ Observation window:
+From June 20, 2025 at 00:00
+To June 23, 2025 at 24:00 (London time / UTC+1)
+
+✅ Resolution source:
+
+Binance BTC/USDT
+(Candlestick interval: 1 minute)
+
+
+Notes:
+
+Only Binance’s official BTC/USDT chart will be used for resolution.
+
+Data from other platforms, screenshots, or social media will not be considered.
+
+If no closing price falls below $102,000 during the time window, the market will resolve to "No"., res_data: p1: 0, p2: 1, p3: 0.5, p4:-57896044618658097711785492504343953926634992332820282019728792003956564819968, earlyExpiration:1 Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50, p4 corresponds to early request. ,initializer:54775202151e1dd230b0f32e5cb163a2e3ae5380,ooRequester:6a9d222616c90fca5754cd1333cfd9b7fb6a4f74

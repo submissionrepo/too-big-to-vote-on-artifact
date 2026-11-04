@@ -1,0 +1,16 @@
+{
+ "n_roll_events": 77,
+ "status_counts": {
+  "leader-not-a-side": 32,
+  "no-market": 2,
+  "no-prices": 17,
+  "ok": 26
+ },
+ "n_ok": 26,
+ "drop_1h_median": 0.0,
+ "drop_24h_median": 0.0,
+ "n_drop_1h_ge_0.05": 0,
+ "n_drop_1h_ge_0.10": 0,
+ "n_drop_24h_ge_0.10": 0,
+ "price_end_median": 0.9965
+}

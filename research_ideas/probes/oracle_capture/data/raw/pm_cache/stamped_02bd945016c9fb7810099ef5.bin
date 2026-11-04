@@ -1,0 +1,9 @@
+q: title: Spread: Hull City AFC (-0.5), description: In the upcoming EFL Championship game, scheduled for October 25 at 10:00 AM ET:
+
+This market will resolve to "Hull City AFC" if Hull City AFC win the game by 1 or more goals.
+
+Otherwise, this market will resolve to "Charlton Athletic FC".
+
+If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50–50.
+
+This market will resolve according to the official final score published on efl.com. This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time. market_id: 645932 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to Charlton Athletic FC, p2 to Hull City AFC, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

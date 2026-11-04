@@ -1,0 +1,13 @@
+q: title: Will Trump agree to withdraw troops from the Iranian region by June 30?, description: This market will resolve to “Yes” if the United States agrees to withdraw troops from the region surrounding Iran by May June 30, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No.”
+
+The withdrawal of US troops from the region surrounding Iran refers to any official U.S. or U.S. military initiative or commitment to materially reduce the total number of U.S. military personnel stationed or deployed in the Middle East, Persian Gulf, or countries neighboring or proximate to Iran. A qualifying initiative must be publicly identified as a deliberate reduction in US military presence near Iran. Routine troop movements, relocations, or regular variations in the deployment or stationing of US military personnel, which are not part of a qualifying initiative or commitment, will not count.
+
+The United States will be considered to have agreed to withdraw troops from the region surrounding Iran if:
+- Donald Trump or another authorized representative of the Government of the United States publicly announces that the United States has agreed to withdraw troops from the region surrounding Iran.
+- The withdrawal of US troops from the region surrounding Iran is included as part of a treaty or deal that is formally established between the United States and Iran, either through signing or other formal means.
+
+Agreement refers to an explicit acceptance, authorization or consent to the specified action. Only announcements of definitive agreement will qualify. Suggestions, negotiations, expressions of openness, or other non-definitive statements will not qualify.
+
+Any definitive agreement or commitment made before the resolution date will be considered, regardless of when or whether the specified action is begun.
+
+The primary resolution source for this market will be official statements from Donald Trump, the U.S. government, and their official representatives; however, a consensus of credible reporting may also be used to verify the details of an announcement or formal agreement. market_id: 2371796 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:f43d55f3a8b7484ed4b6931f93cb6f9ef5dd369d,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

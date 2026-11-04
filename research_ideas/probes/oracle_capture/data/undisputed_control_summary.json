@@ -1,0 +1,23 @@
+{
+ "undisputed_liveness": {
+  "n": 195,
+  "median": 0.9995943477028424,
+  "p90": 1.0710144807414559,
+  "share_minted_total": -0.003379467735240338
+ },
+ "disputed_first_2h": {
+  "n": 42,
+  "median": 1.0319866619360272,
+  "p90": 1.4356617655056803,
+  "share_minted_total": 0.1650415594123854
+ },
+ "disputed_vote": {
+  "n": 42,
+  "median": 3.470512571415753,
+  "p90": 39.222578855138984,
+  "share_minted_total": 0.9133770553251249
+ },
+ "undisputed_n_all": 195,
+ "undisputed_liveness_hours_median": 2.0,
+ "undisputed_volume_median": 564183.329785
+}

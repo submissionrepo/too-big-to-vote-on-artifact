@@ -1,0 +1,9 @@
+q: title: Will turnout in the 2025 Honduran general election be between 60% and 65%?, description: Presidential and general elections are scheduled to be held in Honduras on November 30, 2025.
+
+This market will resolve according to the turnout percentage in the 2025 Honduran general election, calculated as “total votes cast” divided by “eligible voters” (“electores habilitados”).
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+If the results of the 2025 Honduran general election aren’t known by December 31, 2026 ET, this market will resolve to the lowest range bracket.
+
+This market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Honduran government, specifically the National Election Council (Consejo Nacional Electoral or CNE) (https://www.cne.hn/). market_id: 716370 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown. This request MUST only resolve to p1 or p2.  Updates made by the question creator via the bulletin board at 0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:2f5e3684cb1f318ec51b00edba38d79ac2c0aa9d

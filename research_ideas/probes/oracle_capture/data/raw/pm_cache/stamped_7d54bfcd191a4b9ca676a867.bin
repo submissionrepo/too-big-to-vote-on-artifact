@@ -1,0 +1,7 @@
+q: title: Will Pair Q win the 2025 WTA Tokyo Women’s Doubles Tournament?, description: This polymarket will resolve to the team that wins the 2025 Toray Pan Pacific Open (WTA Tokyo) Women’s Doubles Tournament.
+
+The market will resolve to “Yes” if the listed pair wins the 2025 WTA Tokyo Women’s Doubles Tournament. Otherwise, this market will resolve to “No”.
+
+If at any point it becomes impossible for this pair to win the tournament per the official rules of the WTA Tokyo tournament, this market will resolve to “No”.
+
+The primary resolution source will be official information from the WTA Tour. A consensus of credible reporting may also be used. market_id: 640935 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown. This request MUST only resolve to p1 or p2.  Updates made by the question creator via the bulletin board at 0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:2f5e3684cb1f318ec51b00edba38d79ac2c0aa9d

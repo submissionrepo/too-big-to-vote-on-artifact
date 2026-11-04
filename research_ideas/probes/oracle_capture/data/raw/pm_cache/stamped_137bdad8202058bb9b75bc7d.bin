@@ -1,0 +1,7 @@
+q: title: U.S. anti-cartel operation on foreign soil by December 31?, description: This market will resolve to "Yes" if U.S. government personnel (military, DEA, CIA, or any other agency) directly participates on the ground in an anti-cartel operation or conducts a kinetic strike directed against a cartel on foreign soil by December 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+U.S. personnel must directly participate to qualify. U.S. personnel involved in intelligence, surveillance, logistical, support, or advisory roles will not count.
+
+Only direct U.S. participation which is either confirmed by the U.S. Government or an overwhelming consensus of reporting will count. For example, previous operations such as the 2014 capture of Joaquín "El Chapo" Guzmán, in which U.S. forces were rumored to have been embedded with Mexican Marines, would not qualify.
+
+The primary resolution source for this market will be official statements from the U.S. government, however an overwhelming consensus of reporting may also be used. market_id: 645986 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

@@ -1,0 +1,172 @@
+1/162 Erjavec vs. Costoulas: Match O/U 21.5        hash  block 81183821 reset True -> bond-only
+2/162 Erjavec vs. Costoulas: Match O/U 23.5        hash  block 81183865 reset True -> bond-only
+3/162 Erjavec vs. Costoulas: Match O/U 22.5        hash  block 81183836 reset True -> bond-only
+4/162 Ukraine agrees to Trump mineral deal before  text  block 69376998 reset True -> bond-only
+5/162 Will Powell say "Unemployment" or "Employmen hash  block 76572893 reset True -> bond-only
+6/162 Will Edmundo González win the 2024 Venezuela text  block 60156557 reset True -> bond-only
+7/162 220-239 MPs vote to impeach Yoon?            text  block 65196777 reset True -> bond-only
+8/162 <180 MPs vote to impeach Yoon?               text  block 65195217 reset True -> bond-only
+9/162 Will RFK drop out before November?           text  block 60943591 reset True -> bond-only
+10/162 Ukraine strike in Russia on 25 November 2025 hash  block 81064484 reset True -> bond-only
+11/162 Israel or Palestine responsible for Gaza hos text  block 48969569 reset False -> payout
+12/162 Will Trump win West Virginia by the largest  text  block 65570330 reset True -> bond-only
+13/162 Will Trump create 'gold card' citizenship be text  block 69765178 reset False -> payout
+14/162 Will Bitcoin reach $87,500 in November?      text  block 64169463 reset True -> bond-only
+15/162 Game 1: Both Teams Destroy Inhibitors?       hash  block 85607926 reset True -> bond-only
+16/162 Abibsi vs. Nolan: Set 1 Games O/U 8.5        hash  block 93839557 reset True -> bond-only
+17/162 Game 2: Both Teams Destroy Inhibitors?       hash  block 85615728 reset True -> bond-only
+18/162 Ukraine agrees to Trump mineral deal before  text  block 69378834 reset False -> payout
+19/162 Will Trump create 'gold card' citizenship be text  block 69756049 reset True -> bond-only
+20/162 US announces new Iran agreement/ceasefire ex hash  block 88472394 reset True -> bond-only
+21/162 Israel or Palestine responsible for Gaza hos text  block 48969048 reset True -> bond-only
+22/162 Clavicular pregnancy in 2026?                hash  block 86019931 reset True -> bond-only
+23/162 Will Israel strike Gaza on October 23?       hash  block 78090608 reset False -> payout
+24/162 Will Iran close the Strait of Hormuz before  hash  block 73227430 reset True -> bond-only
+25/162 Farcaster unique users less than 15k on Feb  text  block 53185439 reset True -> bond-only
+26/162 Farcaster unique users more than 25k on Feb  text  block 53185484 reset True -> bond-only
+27/162 Farcaster unique users between 15-20k on Feb text  block 53185475 reset True -> bond-only
+28/162 Farcaster unique users between 20-25k on Feb text  block 53185423 reset True -> bond-only
+29/162 Will Farcaster's growth peak on Sunday?      text  block 53185490 reset True -> bond-only
+30/162 Will Elon Musk post 240-259 tweets from Nove hash  block 79600871 reset True -> bond-only
+31/162 Will Elon Musk post 240-259 tweets from Nove hash  block 79611516 reset False -> payout
+32/162 Will "Materialists" Opening Weekend Box Offi hash  block 72858828 reset True -> bond-only
+33/162 RFK Jr. endorses Trump in August?            text  block 60958414 reset True -> bond-only
+34/162 RFK Jr. endorses Trump before November?      text  block 60958949 reset True -> bond-only
+35/162 US lifts Russia sanctions before April?      text  block 69759385 reset True -> bond-only
+36/162 Will another party win the most seats in the text  block 63635204 reset True -> bond-only
+37/162 RFK Jr. endorses Trump before November?      text  block 60961119 reset False -> payout
+38/162 Will "Materialists" Opening Weekend Box Offi hash  block 72858871 reset True -> bond-only
+39/162 Will "Materialists" Opening Weekend Box Offi hash  block 72908394 reset False -> payout
+40/162 Will "Materialists" Opening Weekend Box Offi hash  block 72858868 reset True -> bond-only
+41/162 Will "Materialists" Opening Weekend Box Offi hash  block 72858834 reset True -> bond-only
+42/162 US military intervention by Oct 31?          text  block 49360003 reset True -> bond-only
+43/162 Will "Materialists" Opening Weekend Box Offi hash  block 72908416 reset False -> payout
+44/162 Will "Materialists" Opening Weekend Box Offi hash  block 72908401 reset False -> payout
+45/162 Will Israel invade Lebanon before November?  text  block 62509180 reset True -> bond-only
+46/162 Will the US sanction Ukraine before April?   text  block 69759395 reset True -> bond-only
+47/162 Tang vs. Markelov: Match O/U 22.5            hash  block 93824286 reset True -> bond-only
+48/162 Will NDP win the most seats in the 2024 Sask text  block 63634365 reset True -> bond-only
+49/162 Will SK win the most seats in the 2024 Saska text  block 63635174 reset True -> bond-only
+50/162 Israel x Hezbollah Ceasefire in 2024?        text  block 64773278 reset True -> bond-only
+51/162 Israel x Hezbollah Ceasefire in 2024?        text  block 64773580 reset False -> payout
+52/162 Will Israel strike Gaza on October 23?       hash  block 78090266 reset True -> bond-only
+53/162 Will "Materialists" Opening Weekend Box Offi hash  block 72908409 reset False -> payout
+54/162 Will another cat memecoin reach $1b first?   text  block 58630764 reset True -> bond-only
+55/162 Will Trump sanction Russia before March?     text  block 67843267 reset True -> bond-only
+56/162 Will Iran strike a U.S. facility by Monday J hash  block 73140249 reset True -> bond-only
+57/162 RFK Jr. endorses Trump in August?            text  block 60961024 reset False -> payout
+58/162 Will Kevin Warsh be formally nominated to be hash  block 83182151 reset True -> bond-only
+59/162 Will the next Government of Canada be a Libe hash  block 71529716 reset False -> payout
+60/162 Did Israeli intelligence have advanced knowl text  block 51807156 reset False -> payout
+61/162 Will Iran strike a U.S. facility by Monday J hash  block 73146982 reset False -> payout
+62/162 Will Venezuela recognize Israel by December  hash  block 91865494 reset True -> bond-only
+63/162 Tang vs. Markelov: Match O/U 23.5            hash  block 93824295 reset True -> bond-only
+64/162 Israel military action against Iran by end o text  block 60648581 reset False -> payout
+65/162 Israel strikes Syria by August 31?           hash  block 74293976 reset True -> bond-only
+66/162 Will Khalil Mack play for New York Jets in 2 hash  block 84001447 reset True -> bond-only
+67/162 Grok 4 released by September 30?             hash  block 73797408 reset True -> bond-only
+68/162 US Congress approve more Ukraine aid in 2023 text  block 51441595 reset True -> bond-only
+69/162 Will Hezbollah conduct military action again hash  block 84699554 reset False -> payout
+70/162 New York Mets vs. Miami Marlins              text  block 70100364 reset True -> bond-only
+71/162 Iran charges Hormuz fees by September 30?    hash  block 94664451 reset True -> bond-only
+72/162 Will Trump say "Nancy" or "Pelosi" this week hash  block 84567019 reset True -> bond-only
+73/162 Will Trump endorse Andrew Cuomo for NYC Mayo hash  block 78523357 reset True -> bond-only
+74/162 Will Trump issue an executive order on Day 1 text  block 67386443 reset False -> payout
+75/162 MSFT shareholders vote for Bitcoin investmen text  block 65319906 reset True -> bond-only
+76/162 Will turnout in the 2025 Honduran general el hash  block 82495483 reset False -> payout
+77/162 Covic Iurii vs. Turcan Victor: Total Games O hash  block 91959262 reset True -> bond-only
+78/162 Map 3: Odd/Even Total Kills?                 hash  block 84722738 reset True -> bond-only
+79/162 Nasdaq 100 (NDX) Up or Down on December 2?   hash  block 79803387 reset True -> bond-only
+80/162 Will Hezbollah conduct military action again hash  block 84695770 reset True -> bond-only
+81/162 Will turnout in the 2025 Honduran general el hash  block 82494070 reset True -> bond-only
+82/162 El Salvador Presidential Election: Will some text  block 53139968 reset True -> bond-only
+83/162 El Salvador Presidential Election: Will Manu text  block 53139968 reset True -> bond-only
+84/162 El Salvador Presidential Election: Will Nayi text  block 53139890 reset True -> bond-only
+85/162 Trump declassifies UFO files in 2025?        hash  block 80001373 reset False -> payout
+86/162 Trump declassifies UFO files in 2025?        hash  block 79998399 reset True -> bond-only
+87/162 Will Biden issue more pardons than Trump?    text  block 66808439 reset True -> bond-only
+88/162 Hamas lose power in Gaza before February?    text  block 52905370 reset True -> bond-only
+89/162 Will Trump talk to Vladimir Putin in January hash  block 82402574 reset False -> payout
+90/162 Will Donald Trump post 40-59 Truth Social po hash  block 84838550 reset True -> bond-only
+91/162 Kamala Silver Bulletin odds >55% Friday?     text  block 62656946 reset True -> bond-only
+92/162 Will a dildo be thrown onto the court at a W hash  block 75016512 reset True -> bond-only
+93/162 Will a dildo be thrown onto the court at a W hash  block 75016681 reset False -> payout
+94/162 Will Zohran Mamdani praise Donald Trump on F hash  block 79344118 reset False -> payout
+95/162 Will Israel strike Syria by September 15?    hash  block 76221806 reset True -> bond-only
+96/162 US x Iran Effective Ceasefire by September 4 hash  block 93801939 reset True -> bond-only
+97/162 Fordow nuclear facility destroyed before Jul hash  block 73241975 reset False -> payout
+98/162 Will Yusei Kikuchi be named the 2025 World S hash  block 78449535 reset True -> bond-only
+99/162 Will Lebanon recognize Israel by December 31 hash  block 89276263 reset True -> bond-only
+100/162 Israel x Hezbollah ceasefire by April 18, 20 hash  block 85623719 reset False -> payout
+101/162 Will Biden issue more pardons than Trump?    text  block 66809409 reset False -> payout
+102/162 El Salvador Presidential Election: Will Joel text  block 53139968 reset True -> bond-only
+103/162 El Salvador Presidential Election: Will Luis text  block 53139968 reset True -> bond-only
+104/162 US x Iran meeting by April 10, 2026?         hash  block 85383698 reset True -> bond-only
+105/162 1H Spread: Knicks (-5.5)                     hash  block 84639595 reset True -> bond-only
+106/162 Will Trump talk to Vladimir Putin in January hash  block 82401228 reset True -> bond-only
+107/162 Will Trump agree to withdraw troops from the hash  block 88703515 reset False -> payout
+108/162 Will Lebanon recognize Israel by June 30?    hash  block 89278691 reset False -> payout
+109/162 Will Lebanon recognize Israel by June 30?    hash  block 89270106 reset True -> bond-only
+110/162 Over $15M committed to the Trove public sale hash  block 81517596 reset True -> bond-only
+111/162 Israel strikes Iranian oil in June?          hash  block 72766449 reset True -> bond-only
+112/162 Will Claude Mythos 5 be restored for US cust hash  block 89427473 reset False -> payout
+113/162 Will Claude Mythos 5 be restored for US cust hash  block 89426351 reset True -> bond-only
+114/162 Will Israel strike Syria by September 15?    hash  block 76225171 reset False -> payout
+115/162 Clavicular pregnancy in 2026?                hash  block 86021116 reset False -> payout
+116/162 Will edgeX launch a token in 2025?           hash  block 81001011 reset False -> payout
+117/162 Will edgeX launch a token in 2025?           hash  block 80999057 reset True -> bond-only
+118/162 Israel military action against Iran by end o text  block 60106868 reset True -> bond-only
+119/162 Will "Donk" be said during the PGL Bucharest hash  block 85414595 reset False -> payout
+120/162 Will Trump agree to withdraw troops from the hash  block 88703176 reset True -> bond-only
+121/162 US announces new Iran agreement/ceasefire ex hash  block 88453253 reset True -> bond-only
+122/162 Israel x Iran ceasefire before July?         hash  block 73143007 reset True -> bond-only
+123/162 Will Andrew Cuomo win the Democratic Primary hash  block 73212887 reset True -> bond-only
+124/162 Did Israeli intelligence have advanced knowl text  block 50745296 reset False -> payout
+125/162 Epstein blackmail evidence released in 2025? hash  block 80731443 reset True -> bond-only
+126/162 Will Benoît Payan win the Marseille mayor el hash  block 84636180 reset False -> payout
+127/162 Will Donald Trump publicly insult someone on hash  block 88937065 reset False -> payout
+128/162 Will Donald Trump publicly insult someone on hash  block 88934993 reset True -> bond-only
+129/162 US x Iran meeting by April 10, 2026?         hash  block 85387199 reset False -> payout
+130/162 Will Israel invade Syria in 2024?            text  block 65612407 reset False -> payout
+131/162 Will Alabama beat South Carolina by 22 or mo text  block 62961126 reset True -> bond-only
+132/162 Will Lebanon recognize Israel by December 31 hash  block 89323921 reset False -> payout
+133/162 Will Guido Manini Ríos win the 2024 Uruguay  text  block 64873169 reset True -> bond-only
+134/162 Will "Donk" be said during the PGL Bucharest hash  block 85413230 reset True -> bond-only
+135/162 Will Reform UK win the second-most council s hash  block 86636286 reset True -> bond-only
+136/162 Will Israel invade Lebanon in September?     text  block 62485354 reset False -> payout
+137/162 Tesla launches unsupervised full self drivin hash  block 82266216 reset False -> payout
+138/162 Emmett Shear still CEO of OpenAI by end of w text  block 50261150 reset True -> bond-only
+139/162 Will Israel invade Lebanon in September?     text  block 62484157 reset True -> bond-only
+140/162 Tesla launches unsupervised full self drivin hash  block 82262793 reset True -> bond-only
+141/162 US military intervention by Oct 31?          text  block 49401175 reset False -> payout
+142/162 NFL: Green Bay Packers vs. New England Patri text  block 46523419 reset True -> bond-only
+143/162 Gold missing from Fort Knox?                 text  block 68813696 reset True -> bond-only
+144/162 Will anyone audibly fart during Digital Asse text  block 69288918 reset False -> payout
+145/162 Will anyone audibly fart during Digital Asse text  block 69288568 reset True -> bond-only
+146/162 Gold missing from Fort Knox?                 text  block 68814159 reset False -> payout
+147/162 Will RFK Jr. drop out by Friday?             text  block 60962098 reset False -> payout
+148/162 Kamala Harris 538 odds >60% Friday?          text  block 62694462 reset True -> bond-only
+149/162 Will RFK Jr. drop out by Friday?             text  block 60958898 reset True -> bond-only
+150/162 Kamala Harris 538 odds >60% Friday?          text  block 62700898 reset False -> payout
+151/162 Israeli forces enters Lebanon in September?  text  block 62460705 reset False -> payout
+152/162 Will Israel invade Lebanon in September?     text  block 62604612 reset False -> payout
+153/162 GTA 6 release date by end of year?           text  block 50753747 reset True -> bond-only
+154/162 Will Bybit buy >$1b ETH by next Friday?      text  block 68510233 reset True -> bond-only
+155/162 US Government confirms what Mystery Drones a text  block 65577474 reset True -> bond-only
+156/162 Will Liam Lawson win the 2025 Australian Gra text  block 69116275 reset True -> bond-only
+157/162 Will Trump launch a coin before the election text  block 63070947 reset False -> payout
+158/162 Will Trump launch a coin before the election text  block 63069244 reset True -> bond-only
+159/162 Trump ends all military aid to Ukraine befor text  block 69757777 reset True -> bond-only
+160/162 Trump ends all military aid to Ukraine befor text  block 69758062 reset False -> payout
+161/162 Will Fernando Alonso win the 2025 Australian text  block 69116316 reset True -> bond-only
+162/162 Trump declassifies JFK files in first week?  text  block 67390237 reset False -> payout
+{
+ "requests": 162,
+ "payout": 51,
+ "bond_only": 111,
+ "unknown": 0,
+ "market_rounds": 127,
+ "market_rounds_with_payout_vote": 51,
+ "market_rounds_bond_only": 76,
+ "market_rounds_unknown": 0
+}

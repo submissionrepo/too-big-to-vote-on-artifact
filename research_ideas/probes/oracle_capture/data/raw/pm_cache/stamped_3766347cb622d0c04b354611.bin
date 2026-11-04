@@ -1,0 +1,5 @@
+q: title: Will Trump talk to Vladimir Putin in January?, description: This market will resolve to "Yes" if the listed individual talks with Donald Trump between January 1 and January 31, 2026, 11:59 PM ET. Otherwise, it will resolve to "No".
+
+A talk is defined as any interaction between the listed individual and Donald Trump, occurring either in person or through verbal communication by phone or video call.
+
+The resolution source will be a consensus of credible reporting. market_id: 920389 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

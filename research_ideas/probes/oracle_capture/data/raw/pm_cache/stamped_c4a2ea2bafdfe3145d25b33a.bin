@@ -1,0 +1,7 @@
+q: title: Will Show D be the top global Netflix show this week?, description: Netflix is expected to update its global Top 10 TV shows list on top10.netflix.com on Tuesday, June 9, 2026, 3:00 PM ET, reflecting viewership from the previous week (Monday to Sunday).
+
+This market will resolve based on which show this update ranks as the #1 global Netflix show.
+
+The ranking is based on total views globally, as reported by Netflix for TV shows (English only).
+
+If the top10.netflix.com update does not occur by June 12, 2026, 11:59 PM ET, this market will resolve to "Other". market_id: 2444157 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown. This request MUST only resolve to p1 or p2.  Updates made by the question creator via the bulletin board at 0x69c47De9D4D3Dad79590d61b9e05918E03775f24 should be considered.,initializer:f43d55f3a8b7484ed4b6931f93cb6f9ef5dd369d,ooRequester:69c47de9d4d3dad79590d61b9e05918e03775f24

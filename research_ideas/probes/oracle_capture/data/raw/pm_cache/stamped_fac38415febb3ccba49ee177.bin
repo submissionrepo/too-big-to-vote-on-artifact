@@ -1,0 +1,11 @@
+q: title: Will Israel strike Gaza on October 23?, description: This market will resolve to "Yes" if Israel initiates a drone, missile, or air strike on Gaza soil on the listed date (ET). Otherwise, this market will resolve to "No".
+
+For the purposes of this market, a qualifying "strike" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact Gaza ground territory.
+
+A strike on any area within the terrestrial territory of the Gaza Strip counts, including buffer zones.
+
+Missiles or drones which are intercepted and surface-to-air missile strikes will not be sufficient for a "Yes" resolution regardless of whether they land on Gaza territory or cause damage.
+
+Actions such as artillery fire, small arms fire, FPV or ATGM strikes, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.
+
+The primary solution resolution source will be official government/military statements (Israeli or foreign), multilateral bodies (UN, etc.), or a consensus of credible reporting from major international media and national broadcasters/newspapers. market_id: 639918 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

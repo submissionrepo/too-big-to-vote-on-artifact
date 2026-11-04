@@ -1,0 +1,9 @@
+q: title: Will Claude Mythos 5 be restored for US customers by June 30?, description: In April 2026, Anthropic released the AI model "Claude Mythos 5" in limited availability to approved partners in its Project Glasswing security program. On June 12, 2026, Anthropic suspended access to Mythos 5 for all customers in response to a directive from the US government.
+
+This market will resolve to "Yes" if Anthropic restores access to "Claude Mythos 5," or a model confirmed to be the same model, to at least one US partner or client whose access was previously rescinded, by the listed date, 11:59 PM ET. Otherwise, this market will resolve to "No."
+
+A qualifying model must be named "Claude Mythos 5" or be confirmed by Anthropic or by a consensus of credible reporting to be the same model.
+
+For this market to resolve to "Yes," the qualifying model (as defined above) must be restored to accessibility for at least one partner or client whose access was previously rescinded. If an otherwise qualifying restoration restricts access to certain customers based on nationality, whether geographically inside or outside of the US, that restoration will still qualify.
+
+The primary resolution source for this market will be official information from Anthropic; however, a consensus of credible reporting will also be used. market_id: 2584948 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:f43d55f3a8b7484ed4b6931f93cb6f9ef5dd369d,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

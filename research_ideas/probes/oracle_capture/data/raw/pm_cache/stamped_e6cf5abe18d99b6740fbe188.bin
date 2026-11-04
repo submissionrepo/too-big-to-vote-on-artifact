@@ -1,0 +1,9 @@
+q: title: 1H Spread: Knicks (-5.5), description: In the first half of the NBA game between Pelicans and Knicks, scheduled for March 24 at 7:30 PM ET:
+
+This market will resolve to "Knicks" if the Knicks are winning by 6 or more points at halftime.
+
+Otherwise, this market will resolve to "Pelicans".
+
+The result will be determined based on the score at halftime only.
+
+If the game is postponed, this market will remain open until the game has been completed. If the game is canceled entirely, with no make-up game, this market will resolve 50-50. market_id: 1698361 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to Pelicans, p2 to Knicks, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

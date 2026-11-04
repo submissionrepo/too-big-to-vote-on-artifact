@@ -1,0 +1,9 @@
+q: title: Will Benoît Payan win the Marseille mayor election?, description: The Marseille mayoral election is scheduled to take place in France on March 15, 2026, with a potential runoff on March 22, 2026.
+
+This market will resolve according to the candidate who wins the 2026 Marseille mayoral election to become the next elected Mayor of Marseille.
+
+Temporary, interim, or placeholder mayors appointed before the election will not be considered.
+
+This market includes any potential second round. If the result of this election isn't known by December 31, 2026, 11:59 PM ET, the market will resolve to "Other".
+
+This market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the French Government, specifically the Ministry of the Interior (https://www.interieur.gouv.fr/). market_id: 1192579 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown. This request MUST only resolve to p1 or p2.  Updates made by the question creator via the bulletin board at 0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:2f5e3684cb1f318ec51b00edba38d79ac2c0aa9d

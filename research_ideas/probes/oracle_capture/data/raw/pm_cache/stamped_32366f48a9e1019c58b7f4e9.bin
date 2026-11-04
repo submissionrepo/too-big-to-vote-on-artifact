@@ -1,0 +1,5 @@
+q: title: Will Yusei Kikuchi be named the 2025 World Series MVP?, description: This polymarket will resolve according to the player who is named the 2025 World Series MVP.
+
+If the 2025 World Series MVP is not announced by May 1, 2026, this market will resolve to “Other”.
+
+The primary resolution source for this market will be official announcements from MLB. A consensus of credible reporting may also be used. market_id: 642895 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown. This request MUST only resolve to p1 or p2.  Updates made by the question creator via the bulletin board at 0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:2f5e3684cb1f318ec51b00edba38d79ac2c0aa9d

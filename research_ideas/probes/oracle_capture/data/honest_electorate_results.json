@@ -1,0 +1,77 @@
+{
+ "pi=1 hF=0 rule=staked": {
+  "stall": "7/20",
+  "capture": "261/400",
+  "tape": "81/400",
+  "capture01": "4/5"
+ },
+ "pi=1 hF=0 rule=votes": {
+  "stall": "7/20",
+  "capture": "261/400",
+  "tape": "81/400",
+  "capture01": "4/5"
+ },
+ "pi=1 hF=1/10 rule=staked": {
+  "stall": "1/4",
+  "capture": "221/400",
+  "tape": "41/400",
+  "capture01": "7/10"
+ },
+ "pi=1 hF=1/10 rule=votes": {
+  "stall": "1/4",
+  "capture": "221/400",
+  "tape": "41/400",
+  "capture01": "7/10"
+ },
+ "pi=1 hF=1/4 rule=staked": {
+  "stall": "1/10",
+  "capture": "161/400",
+  "tape": "0",
+  "capture01": "11/20"
+ },
+ "pi=1 hF=1/4 rule=votes": {
+  "stall": "1/10",
+  "capture": "161/400",
+  "tape": "0",
+  "capture01": "11/20"
+ },
+ "pi=24/25 hF=0 rule=staked": {
+  "stall": "13/40",
+  "capture": "261/400",
+  "tape": "67/400",
+  "capture01": "4/5"
+ },
+ "pi=24/25 hF=0 rule=votes": {
+  "stall": "137/400",
+  "capture": "257/400",
+  "tape": "39/200",
+  "capture01": "159/200"
+ },
+ "pi=24/25 hF=1/10 rule=staked": {
+  "stall": "9/40",
+  "capture": "111/200",
+  "tape": "27/400",
+  "capture01": "141/200"
+ },
+ "pi=24/25 hF=1/10 rule=votes": {
+  "stall": "49/200",
+  "capture": "217/400",
+  "tape": "39/400",
+  "capture01": "139/200"
+ },
+ "pi=24/25 hF=1/4 rule=staked": {
+  "stall": "3/40",
+  "capture": "33/80",
+  "tape": "0",
+  "capture01": "14/25"
+ },
+ "pi=24/25 hF=1/4 rule=votes": {
+  "stall": "39/400",
+  "capture": "79/200",
+  "tape": "0",
+  "capture01": "219/400"
+ },
+ "staked_trigger_tape_pi096_pred": "1/6",
+ "largest_stake_today": "0.16857",
+ "all_ok": true
+}

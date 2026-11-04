@@ -1,0 +1,14 @@
+{
+ "a_middle_piece_residual": "0",
+ "b_scaled_difference": "-Q - 2*V*lambda*mu + V*lambda",
+ "c_advantage_signal1": "-k*(rho0 - rho1)/2",
+ "c_advantage_signal0": "-k*(rho0 - rho1)/2",
+ "d_gap_over_Delta_one": "2*Q*(Delta - 1)/(Delta*(2*mu - 1))",
+ "f_shift_per_unit_stake": "-1/(2*mu - 1)",
+ "f_net_gain": "Q + 2*V*delta*mu - V*delta",
+ "g_scaled_slack": "-O1 - O2 - O3 - O4 - O5 - V*delta*(2*mu - 1)",
+ "e_penalty_cap_usd": 5187.749168775896,
+ "e_last_price_date": "2026-10-06",
+ "e_march_Q": 257182,
+ "e_march_pool_lower_bound_usd": 857273.3333333334
+}

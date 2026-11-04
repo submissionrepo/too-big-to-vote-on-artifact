@@ -1,0 +1,82 @@
+1/43 window around 'Israel x Hezbollah ceasefire by April 18': 71 candidates, kept 8
+2/43 window around 'Will Trump launch a coin before the elec': 1 candidates, kept 1
+3/43 window around 'Will "Donk" be said during the PGL Bucha': 41 candidates, kept 8
+4/43 window around 'Clavicular pregnancy in 2026?': 41 candidates, kept 8
+5/43 window around 'Tesla launches unsupervised full self dr': 68 candidates, kept 8
+6/43 window around 'Will Trump agree to withdraw troops from': 34 candidates, kept 8
+7/43 window around 'Trump declassifies UFO files in 2025?': 14 candidates, kept 8
+8/43 window around 'Fordow nuclear facility destroyed before': 5 candidates, kept 5
+9/43 window around 'Israel x Hezbollah Ceasefire in 2024?': 2 candidates, kept 2
+10/43 window around 'Will Trump talk to Vladimir Putin in Jan': 195 candidates, kept 8
+11/43 window around 'US x Iran meeting by April 10, 2026?': 5 candidates, kept 5
+12/43 window around 'Will Hezbollah conduct military action a': 0 candidates, kept 0
+13/43 window around 'Will edgeX launch a token in 2025?': 15 candidates, kept 8
+14/43 window around 'Will RFK Jr. drop out by Friday?': 2 candidates, kept 2
+15/43 window around 'Will Israel strike Gaza on October 23?': 15 candidates, kept 8
+16/43 window around 'Will Israel invade Lebanon in September?': 2 candidates, kept 2
+17/43 window around 'Trump declassifies JFK files in first we': 9 candidates, kept 8
+18/43 window around 'Will Lebanon recognize Israel by June 30': 70 candidates, kept 8
+19/43 window around 'Will Donald Trump publicly insult someon': 11 candidates, kept 8
+20/43 window around 'Gold missing from Fort Knox?': 2 candidates, kept 2
+21/43 window around 'Israeli forces enters Lebanon in Septemb': 0 candidates, kept 0
+22/43 window around 'Will Zohran Mamdani praise Donald Trump ': 19 candidates, kept 8
+23/43 window around 'RFK Jr. endorses Trump in August?': 0 candidates, kept 0
+24/43 window around 'Will Israel strike Syria by September 15': 5 candidates, kept 5
+25/43 window around 'Will a dildo be thrown onto the court at': 20 candidates, kept 8
+26/43 window around 'Will Israel invade Syria in 2024?': 1 candidates, kept 1
+27/43 window around 'Will Trump issue an executive order on D': 1 candidates, kept 1
+28/43 window around 'Ukraine agrees to Trump mineral deal bef': 11 candidates, kept 8
+29/43 window around 'Will Israel invade Lebanon in September?': 55 candidates, kept 8
+30/43 window around 'Will Claude Mythos 5 be restored for US ': 105 candidates, kept 8
+31/43 window around 'Will anyone audibly fart during Digital ': 5 candidates, kept 5
+32/43 window around 'Will Iran strike a U.S. facility by Mond': 13 candidates, kept 8
+33/43 window around 'Did Israeli intelligence have advanced k': 0 candidates, kept 0
+34/43 window around 'Did Israeli intelligence have advanced k': 2 candidates, kept 2
+35/43 window around 'RFK Jr. endorses Trump before November?': 0 candidates, kept 0
+36/43 window around 'Israel or Palestine responsible for Gaza': 1 candidates, kept 1
+37/43 window around 'US military intervention by Oct 31?': 3 candidates, kept 3
+38/43 window around "Will Trump create 'gold card' citizenshi": 1 candidates, kept 1
+39/43 window around 'Will Lebanon recognize Israel by Decembe': 16 candidates, kept 8
+40/43 window around 'Will Biden issue more pardons than Trump': 0 candidates, kept 0
+41/43 window around 'Israel military action against Iran by e': 2 candidates, kept 2
+42/43 window around 'Trump ends all military aid to Ukraine b': 3 candidates, kept 3
+43/43 window around 'Kamala Harris 538 odds >60% Friday?': 0 candidates, kept 0
+{
+ "undisputed_liveness": {
+  "n": 195,
+  "median": 0.9995943477028424,
+  "p90": 1.0710144807414559,
+  "share_minted_total": -0.003379467735240338
+ },
+ "disputed_first_2h": {
+  "n": 42,
+  "median": 1.0319866619360272,
+  "p90": 1.4356617655056803,
+  "share_minted_total": 0.1650415594123854
+ },
+ "disputed_vote": {
+  "n": 42,
+  "median": 3.470512571415753,
+  "p90": 39.222578855138984,
+  "share_minted_total": 0.9133770553251249
+ },
+ "undisputed_n_all": 195,
+ "undisputed_liveness_hours_median": 2.0,
+ "undisputed_volume_median": 564183.329785
+}
+st_2h": {
+  "n": 42,
+  "median": 1.0319866619360272,
+  "p90": 1.4356617655056803,
+  "share_minted_total": 0.1650415594123854
+ },
+ "disputed_vote": {
+  "n": 42,
+  "median": 3.470512571415753,
+  "p90": 39.222578855138984,
+  "share_minted_total": 0.9133770553251249
+ },
+ "undisputed_n_all": 195,
+ "undisputed_liveness_hours_median": 2.0,
+ "undisputed_volume_median": 564183.329785
+}

@@ -1,0 +1,88 @@
+{
+ "round": 10085,
+ "S_wei": 22845748882117637513634318,
+ "minParticipation_wei": 5000000000000000000000000,
+ "minAgreement_wei": 11422874441058818756817159,
+ "828": {
+  "request_time": 1742680702,
+  "n_voters": 510,
+  "total_votes_wei": 20999659606061037094727017,
+  "tally_wei": {
+   "-57896044618658097711785492504343953926634992332820282019728792003956564819968": 9532667855874592458966623,
+   "0": 1184615655843004686915,
+   "1000000000000000000": 11465792826783812318717127,
+   "500000000000000000": 14307746789312356352
+  },
+  "port_resolved": true,
+  "port_mode": 1000000000000000000,
+  "validation": {
+   "events_found": 819,
+   "voters_matched": 396,
+   "voters_mismatched": 0,
+   "absent_stakers_with_events": 423,
+   "mismatch_samples": []
+  },
+  "counterfactuals": {
+   "resolved_on_chain_port": true,
+   "yes_votes": 11465792826783812318717127,
+   "yes_minus_whale": 6382301440837689507128127,
+   "margin_over_minAgreement": 42918385724993561899968,
+   "min_whale_stake_to_resolve_yes_50pct": 5040573000221129249689033,
+   "whale_stake_actual": 5083491385946122811589000,
+   "min_whale_stake_to_resolve_yes_65pct": 8467435332538774876734180,
+   "whale_short_under_65pct": 3383943946592652065145180,
+   "min_whale_stake_votescast_50pct": 4117528362192829040235382,
+   "min_whale_stake_votescast_65pct": 7267477303101984604444435,
+   "stall_coalition_staked_50pct": 11422874441058818756817159,
+   "stall_coalition_staked_65pct": 7996012108741173129772012,
+   "stall_coalition_votescast_65pct": 15992024217482346259544024,
+   "winner_share_of_staked": 0.5018786158399293,
+   "F_mu_0.2_pays_at_tape": true,
+   "totalSlashed_wei": 11379956055333825194917,
+   "pool_from_wrong_voters_wei": 9533866779277224776009,
+   "pool_from_absent_wei": 1846089276056600418907,
+   "whale_gain_wei": 5045434664107914507792
+  }
+ },
+ "827": {
+  "request_time": 1742684664,
+  "n_voters": 514,
+  "total_votes_wei": 21000063290470282145805628,
+  "tally_wei": {
+   "-57896044618658097711785492504343953926634992332820282019728792003956564819968": 8706370610005000795290322,
+   "0": 1143706659947835651849,
+   "1000000000000000000": 12292521206971279123932254,
+   "500000000000000000": 27766834054390931203
+  },
+  "port_resolved": true,
+  "port_mode": 1000000000000000000,
+  "validation": {
+   "events_found": 819,
+   "voters_matched": 397,
+   "voters_mismatched": 0,
+   "absent_stakers_with_events": 422,
+   "mismatch_samples": []
+  },
+  "counterfactuals": {
+   "resolved_on_chain_port": true,
+   "yes_votes": 12292521206971279123932254,
+   "yes_minus_whale": 7209029821025156312343254,
+   "margin_over_minAgreement": 869646765912460367115095,
+   "min_whale_stake_to_resolve_yes_50pct": 4213844620033662444473906,
+   "whale_stake_actual": 5083491385946122811589000,
+   "min_whale_stake_to_resolve_yes_65pct": 7640706952351308071519053,
+   "whale_short_under_65pct": 2557215566405185259930053,
+   "min_whale_stake_votescast_50pct": 3291001824209984760559561,
+   "min_whale_stake_votescast_65pct": 6441011317780527082430405,
+   "stall_coalition_staked_50pct": 11422874441058818756817159,
+   "stall_coalition_staked_65pct": 7996012108741173129772012,
+   "stall_coalition_votescast_65pct": 15992024217482346259544024,
+   "winner_share_of_staked": 0.5380660214029215,
+   "F_mu_0.2_pays_at_tape": true,
+   "totalSlashed_wei": 10553227675146358389702,
+   "pool_from_wrong_voters_wei": 8707542083499003021873,
+   "pool_from_absent_wei": 1845685591647355367828,
+   "whale_gain_wei": 4364217972641003806651
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "n_selected": 280,
+ "n_with_title": 280,
+ "n_market_found": 268,
+ "n_with_prices": 267,
+ "mu_0.20": {
+  "tape_cases_with_prices": 267,
+  "with_a_side": 147,
+  "vote_overturned_market_favourite": 38,
+  "winner_side_price_quantiles": {
+   "p10": 0.2527,
+   "p50": 0.7244,
+   "p90": 0.9944
+  },
+  "too_early_cases": 118
+ },
+ "mu_0.25": {
+  "tape_cases_with_prices": 170,
+  "with_a_side": 87,
+  "vote_overturned_market_favourite": 25,
+  "winner_side_price_quantiles": {
+   "p10": 0.2373,
+   "p50": 0.6904,
+   "p90": 0.9933
+  },
+  "too_early_cases": 83
+ }
+}

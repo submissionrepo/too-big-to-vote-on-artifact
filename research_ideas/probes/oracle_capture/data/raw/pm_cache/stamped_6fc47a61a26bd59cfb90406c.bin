@@ -1,0 +1,13 @@
+q: title: Israel x Iran ceasefire before July? , description: This market will resolve to "Yes" if there is an official ceasefire agreement, defined as a publicly announced and mutually agreed halt in military engagement, between Israel and Iran by June 30, 2025, 11:59 PM ET.
+
+Unilateral statements from either Iran or Israel that they are pausing or ending military action will not qualify if it does not reflect a mutually agreed halt in military engagement. However, a ceasefire which is publicly announced by either Iran, Israel, or a third party mediator, which is confirmed by a consensus of credible reporting will qualify. 
+
+If the agreement is officially reached before the resolution date, this market will resolve to "Yes," regardless of whether the ceasefire officially starts afterward.
+
+Ceasefire agreements between Israel and any Iranian entity other than the internationally recognized government of the Islamic Republic of Iran—such as a provisional authority or opposition group in the event of civil war or revolution—will not qualify.
+
+Only ceasefires which constitute a general pause in the conflict will qualify. Ceasefires which only apply to energy infrastructure, specific locations, or other similar agreements will not qualify.
+
+Any form of informal agreement will not be considered an official ceasefire. Humanitarian pauses will not count toward the resolution of this market.
+
+This market's primary resolution will be based on official announcements from Israel and Iran. However, a publicly announced ceasefire which is confirmed by a wide consensus of credible media reporting stating an official ceasefire agreement between Iran and Israel has been reached will suffice. market_id: 552649 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x6A9D222616C90FcA5754cd1333cFD9b7fb6a4F74 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:6a9d222616c90fca5754cd1333cfd9b7fb6a4f74

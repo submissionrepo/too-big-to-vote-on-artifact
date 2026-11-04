@@ -1,0 +1,15 @@
+q: title: Map 3: Odd/Even Total Kills?, description: This market will resolve to "Odd" if the total combined kills by both teams in Map 3 is an odd number.
+
+This market will resolve to "Even" if the total combined kills by both teams in Map 3 is an even number.
+
+"Total combined kills" includes all kills recorded during the match across all rounds, including kills during regulation rounds and overtime rounds if applicable. Team kills (friendly fire) and self-inflicted deaths (e.g., falling damage, own grenade) do not count as kills for the purposes of this market.
+
+If no kills are recorded in Map 3, or if Map 3 is canceled (not played at all), or is delayed beyond 7 days from the scheduled date, this market will resolve to 50-50.
+
+If Map 3 is never played due to forfeit, disqualification, or walkover, this market will resolve to 50-50.
+
+If Map 3 is not played because the series result has already been determined (e.g., a team clinches the series before Map 3 is needed), this market will resolve to 50-50.
+
+If Map 3 is remade, resolution will be based on the remade game only.
+
+The primary resolution source for this market will be official information from https://hltv.org. However, if https://hltv.org has not published final results within 2 hours after the event's conclusion, a consensus of credible reporting may be used instead. market_id: 1729849 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to Even, p2 to Odd, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

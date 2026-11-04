@@ -1,0 +1,17 @@
+No files changed, compilation skipped
+
+Ran 5 tests for test/MarchReplay.fork.t.sol:MarchReplayForkTest
+[PASS] test_as_it_happened_resolves() (gas: 157326203)
+Logs:
+  status (2 = resolved): 2
+
+[PASS] test_without_all_three_rolls() (gas: 155058464)
+[PASS] test_without_wallet_A_rolls() (gas: 156573761)
+[PASS] test_without_wallet_B_rolls() (gas: 156573709)
+[PASS] test_without_wallet_C_rolls() (gas: 156575800)
+Logs:
+  status without C (1 = active, rolled): 1
+
+Suite result: ok. 5 passed; 0 failed; 0 skipped; finished in 2.29s (11.46s CPU time)
+
+Ran 1 test suite in 2.29s (2.29s CPU time): 5 tests passed, 0 failed, 0 skipped (5 total tests)

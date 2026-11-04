@@ -1,0 +1,9 @@
+q: title: Will "hate that i made you love me - Ariana Grande" be the song of the summer?, description: This market will resolve according to the listed song which holds the No.1 spot on the Billboard Hot 100 for the greatest number of weeks in the summer of 2026.
+
+For the purposes of this market, only Billboard Hot 100 charts with date labels for weeks in June, July, and August of 2026 will be considered.
+
+If more than one song is tied for greatest number of weeks in the No. 1 spot, this market will resolve in favor of the song whose title comes first in alphabetical order. Weeks in the No. 1 spot need not be consecutive.
+
+If the resolution source for this market becomes permanently unavailable, this market will resolve to "Other". 
+
+The resolution source for this market will be the official Billboard Hot 100 charts, published on the Billboard website (https://www.billboard.com/charts/hot-100/). market_id: 2496475 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown. This request MUST only resolve to p1 or p2.  Updates made by the question creator via the bulletin board at 0x69c47De9D4D3Dad79590d61b9e05918E03775f24 should be considered.,initializer:f43d55f3a8b7484ed4b6931f93cb6f9ef5dd369d,ooRequester:69c47de9d4d3dad79590d61b9e05918e03775f24

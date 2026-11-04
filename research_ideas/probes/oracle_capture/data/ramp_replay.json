@@ -1,0 +1,471 @@
+{
+ "n_polymarket": 625,
+ "n_polymarket_eraB": 480,
+ "n_contested_sided": 36,
+ "n_rolled_polymarket": 14,
+ "by_mu": {
+  "0.0": {
+   "pays_differently_all": 0.5488,
+   "pays_differently_all_count": 343,
+   "pays_differently_eraB": 0.5375,
+   "pays_differently_eraB_count": 258,
+   "yes_no_both_pay": 457,
+   "yes_no_both_pay_eraB": 354,
+   "yes_no_below_full": 332,
+   "yes_no_below_full_eraB": 249,
+   "yes_no_haircut_median": 0.0034991851936301307,
+   "yes_no_haircut_max": 0.4146429503397453,
+   "half_both_pay": 12,
+   "half_differ": 11,
+   "half_dev_median": 0.0016519664725972438,
+   "half_dev_max": 0.10986827813678723,
+   "contested_sided_paid": 36,
+   "contested_sided_asked_again": 0,
+   "winner_payout_median": 0.8690865061288229,
+   "winner_payout_p10": 0.6454378880988495,
+   "winner_full_dollar": 4,
+   "max_shift_per_10pct_stake": 0.1,
+   "one_dollar_capture_march": 0.6844476467712566
+  },
+  "0.1": {
+   "pays_differently_all": 0.0688,
+   "pays_differently_all_count": 43,
+   "pays_differently_eraB": 0.06041666666666667,
+   "pays_differently_eraB_count": 29,
+   "yes_no_both_pay": 457,
+   "yes_no_both_pay_eraB": 354,
+   "yes_no_below_full": 32,
+   "yes_no_below_full_eraB": 20,
+   "yes_no_haircut_median": 0.08378262376171258,
+   "yes_no_haircut_max": 0.3933036879246816,
+   "half_both_pay": 12,
+   "half_differ": 11,
+   "half_dev_median": 0.0020649580907465825,
+   "half_dev_max": 0.137335347670984,
+   "contested_sided_paid": 36,
+   "contested_sided_asked_again": 0,
+   "winner_payout_median": 0.9613581326610285,
+   "winner_payout_p10": 0.6817973601235618,
+   "winner_full_dollar": 8,
+   "max_shift_per_10pct_stake": 0.125,
+   "one_dollar_capture_march": 0.5844476467712565
+  },
+  "0.15": {
+   "pays_differently_all": 0.0464,
+   "pays_differently_all_count": 29,
+   "pays_differently_eraB": 0.04583333333333333,
+   "pays_differently_eraB_count": 22,
+   "yes_no_both_pay": 457,
+   "yes_no_both_pay_eraB": 354,
+   "yes_no_below_full": 18,
+   "yes_no_below_full_eraB": 13,
+   "yes_no_haircut_median": 0.24418239654295315,
+   "yes_no_haircut_max": 0.3780613576282076,
+   "half_both_pay": 12,
+   "half_differ": 11,
+   "half_dev_median": 0.0023599521037103166,
+   "half_dev_max": 0.15695468305255322,
+   "contested_sided_paid": 36,
+   "contested_sided_asked_again": 0,
+   "winner_payout_median": 1.0,
+   "winner_payout_p10": 0.707768411569785,
+   "winner_full_dollar": 22,
+   "max_shift_per_10pct_stake": 0.14285714285714288,
+   "one_dollar_capture_march": 0.5344476467712564
+  },
+  "0.2": {
+   "pays_differently_all": 0.0416,
+   "pays_differently_all_count": 26,
+   "pays_differently_eraB": 0.03958333333333333,
+   "pays_differently_eraB_count": 19,
+   "yes_no_both_pay": 457,
+   "yes_no_both_pay_eraB": 354,
+   "yes_no_below_full": 15,
+   "yes_no_below_full_eraB": 10,
+   "yes_no_haircut_median": 0.20495791090460835,
+   "yes_no_haircut_max": 0.3577382505662422,
+   "half_both_pay": 12,
+   "half_differ": 11,
+   "half_dev_median": 0.0027532774543287397,
+   "half_dev_max": 0.18311379689464535,
+   "contested_sided_paid": 36,
+   "contested_sided_asked_again": 0,
+   "winner_payout_median": 1.0,
+   "winner_payout_p10": 0.7423964801647491,
+   "winner_full_dollar": 25,
+   "max_shift_per_10pct_stake": 0.16666666666666669,
+   "one_dollar_capture_march": 0.48444764677125657
+  },
+  "0.25": {
+   "pays_differently_all": 0.04,
+   "pays_differently_all_count": 25,
+   "pays_differently_eraB": 0.0375,
+   "pays_differently_eraB_count": 18,
+   "yes_no_both_pay": 457,
+   "yes_no_both_pay_eraB": 354,
+   "yes_no_below_full": 14,
+   "yes_no_below_full_eraB": 9,
+   "yes_no_haircut_median": 0.15148764273733972,
+   "yes_no_haircut_max": 0.3292859006794906,
+   "half_both_pay": 12,
+   "half_differ": 11,
+   "half_dev_median": 0.0033039329451944877,
+   "half_dev_max": 0.21973655627357447,
+   "contested_sided_paid": 36,
+   "contested_sided_asked_again": 0,
+   "winner_payout_median": 1.0,
+   "winner_payout_p10": 0.790875776197699,
+   "winner_full_dollar": 26,
+   "max_shift_per_10pct_stake": 0.2,
+   "one_dollar_capture_march": 0.4344476467712565
+  },
+  "0.3": {
+   "pays_differently_all": 0.0352,
+   "pays_differently_all_count": 22,
+   "pays_differently_eraB": 0.035416666666666666,
+   "pays_differently_eraB_count": 17,
+   "yes_no_both_pay": 457,
+   "yes_no_both_pay_eraB": 354,
+   "yes_no_below_full": 11,
+   "yes_no_below_full_eraB": 8,
+   "yes_no_haircut_median": 0.0784099349123697,
+   "yes_no_haircut_max": 0.28660737584936324,
+   "half_both_pay": 12,
+   "half_differ": 11,
+   "half_dev_median": 0.004129916181493054,
+   "half_dev_max": 0.2746706953419681,
+   "contested_sided_paid": 36,
+   "contested_sided_asked_again": 0,
+   "winner_payout_median": 1.0,
+   "winner_payout_p10": 0.8635947202471237,
+   "winner_full_dollar": 29,
+   "max_shift_per_10pct_stake": 0.25,
+   "one_dollar_capture_march": 0.3844476467712565
+  }
+ },
+ "ask_again": {
+  "both_rules": 155,
+  "ramp_only": 1,
+  "deployed_only": 0,
+  "both_pay": 469
+ },
+ "pivotal": {
+  "n_polymarket_pivotal": 12,
+  "n_yes_no": 7,
+  "n_used": 7,
+  "n_skipped": 0,
+  "n_first_round_differs": 0,
+  "winner_counts": {
+   "p1": 5,
+   "p2": 2,
+   "p3": 0,
+   "p4": 5
+  },
+  "0.0": {
+   "n": 7,
+   "median_shift": 0.03280455786708447,
+   "max_shift": 0.07722147399096391,
+   "n_asked_again_either_way": 0
+  },
+  "0.1": {
+   "n": 7,
+   "median_shift": 0.041005697333855506,
+   "max_shift": 0.09652684248870491,
+   "n_asked_again_either_way": 0
+  },
+  "0.15": {
+   "n": 7,
+   "median_shift": 0.04686365409583493,
+   "max_shift": 0.10483860910341192,
+   "n_asked_again_either_way": 0
+  },
+  "0.2": {
+   "n": 7,
+   "median_shift": 0.03897837728731379,
+   "max_shift": 0.06704485401995341,
+   "n_asked_again_either_way": 0
+  },
+  "0.25": {
+   "n": 7,
+   "median_shift": 0.0,
+   "max_shift": 0.08045382482394414,
+   "n_asked_again_either_way": 0
+  },
+  "0.3": {
+   "n": 7,
+   "median_shift": 0.0,
+   "max_shift": 0.10056728102993018,
+   "n_asked_again_either_way": 0
+  }
+ },
+ "stakes_now": {
+  "top1": 0.16857001226342602,
+  "top4": 0.3712267913322398
+ },
+ "coalition_switch": {
+  "top1": {
+   "alpha": 0.16857001226342602,
+   "all": {
+    "n": 36,
+    "deployed_roll": 15,
+    "deployed_flip": 0,
+    "ramp_n": 33,
+    "ramp_median_shift": 0.1943258455755158,
+    "ramp_max_shift": 0.37658297982056377,
+    "ramp_n_shift_ge_quarter": 10,
+    "ramp_ask_again": 6
+   },
+   "eraB": {
+    "n": 19,
+    "deployed_roll": 9,
+    "deployed_flip": 0,
+    "ramp_n": 18,
+    "ramp_median_shift": 0.21022820226676775,
+    "ramp_max_shift": 0.2997317829455495,
+    "ramp_n_shift_ge_quarter": 6,
+    "ramp_ask_again": 3
+   }
+  },
+  "top4": {
+   "alpha": 0.3712267913322398,
+   "all": {
+    "n": 36,
+    "deployed_roll": 36,
+    "deployed_flip": 0,
+    "ramp_n": 33,
+    "ramp_median_shift": 0.5825209119154471,
+    "ramp_max_shift": 0.7305475878600719,
+    "ramp_n_shift_ge_quarter": 33,
+    "ramp_ask_again": 26
+   },
+   "eraB": {
+    "n": 19,
+    "deployed_roll": 19,
+    "deployed_flip": 0,
+    "ramp_n": 18,
+    "ramp_median_shift": 0.5652261892641286,
+    "ramp_max_shift": 0.6600727291238926,
+    "ramp_n_shift_ge_quarter": 18,
+    "ramp_ask_again": 12
+   }
+  }
+ },
+ "march": {
+  "tally": {
+   "p4": 8706370.610005,
+   "p1": 1143.7066599478358,
+   "p2": 12292521.20697128,
+   "p3": 27.76683405439093
+  },
+  "f_with": 0.5853570496602548,
+  "mode_without": "p4",
+  "f_without": 0.45292690836228816,
+  "mu=0.0": {
+   "with": 0.5853570496602548,
+   "without": null
+  },
+  "mu=0.1": {
+   "with": 0.6066963120753185,
+   "without": null
+  },
+  "mu=0.15": {
+   "with": 0.6219386423717926,
+   "without": null
+  },
+  "mu=0.2": {
+   "with": 0.642261749433758,
+   "without": null
+  },
+  "mu=0.25": {
+   "with": 0.6707140993205096,
+   "without": null
+  },
+  "mu=0.3": {
+   "with": 0.713392624150637,
+   "without": null
+  }
+ },
+ "security_condition": {
+  "0.0": {
+   "n": 51,
+   "delta_needed_median": 0.048117799099342204,
+   "delta_needed_quantiles": {
+    "0.1": 0.0017250848002659978,
+    "0.25": 0.0030619751683311726,
+    "0.5": 0.048117799099342204,
+    "0.75": 0.13431021821285408,
+    "0.9": 0.5452054571343818
+   },
+   "n_need_above_0.05": 25,
+   "n_need_above_0.1": 14,
+   "n_need_above_0.25": 8,
+   "n_need_above_1.0": 1,
+   "n_above_penalty_cap": 51,
+   "per_round": {
+    "n_rounds": 42,
+    "n_rounds_several": 6,
+    "n_market_rounds_in_rounds_above_0.001": 51,
+    "n_market_rounds_in_rounds_above_0.05": 29,
+    "n_market_rounds_in_rounds_above_0.1": 16,
+    "n_market_rounds_in_rounds_above_0.25": 8,
+    "n_market_rounds_in_rounds_above_1.0": 1,
+    "n_rounds_above_0.001": 42,
+    "n_rounds_above_0.05": 24,
+    "n_rounds_above_0.1": 14,
+    "n_rounds_above_0.25": 8,
+    "n_rounds_above_1.0": 1
+   }
+  },
+  "0.1": {
+   "n": 51,
+   "delta_needed_median": 0.06014724887417775,
+   "delta_needed_quantiles": {
+    "0.1": 0.002156356000332497,
+    "0.25": 0.0038274689604139655,
+    "0.5": 0.06014724887417775,
+    "0.75": 0.1678877727660676,
+    "0.9": 0.6815068214179772
+   },
+   "n_need_above_0.05": 27,
+   "n_need_above_0.1": 18,
+   "n_need_above_0.25": 10,
+   "n_need_above_1.0": 1,
+   "n_above_penalty_cap": 51,
+   "per_round": {
+    "n_rounds": 42,
+    "n_rounds_several": 6,
+    "n_market_rounds_in_rounds_above_0.001": 51,
+    "n_market_rounds_in_rounds_above_0.05": 31,
+    "n_market_rounds_in_rounds_above_0.1": 25,
+    "n_market_rounds_in_rounds_above_0.25": 10,
+    "n_market_rounds_in_rounds_above_1.0": 1,
+    "n_rounds_above_0.001": 42,
+    "n_rounds_above_0.05": 26,
+    "n_rounds_above_0.1": 20,
+    "n_rounds_above_0.25": 10,
+    "n_rounds_above_1.0": 1
+   }
+  },
+  "0.15": {
+   "n": 51,
+   "delta_needed_median": 0.06873971299906029,
+   "delta_needed_quantiles": {
+    "0.1": 0.002464406857522854,
+    "0.25": 0.004374250240473104,
+    "0.5": 0.06873971299906029,
+    "0.75": 0.19187174030407725,
+    "0.9": 0.7788649387634026
+   },
+   "n_need_above_0.05": 28,
+   "n_need_above_0.1": 21,
+   "n_need_above_0.25": 11,
+   "n_need_above_1.0": 1,
+   "n_above_penalty_cap": 51,
+   "per_round": {
+    "n_rounds": 42,
+    "n_rounds_several": 6,
+    "n_market_rounds_in_rounds_above_0.001": 51,
+    "n_market_rounds_in_rounds_above_0.05": 32,
+    "n_market_rounds_in_rounds_above_0.1": 27,
+    "n_market_rounds_in_rounds_above_0.25": 14,
+    "n_market_rounds_in_rounds_above_1.0": 1,
+    "n_rounds_above_0.001": 42,
+    "n_rounds_above_0.05": 27,
+    "n_rounds_above_0.1": 22,
+    "n_rounds_above_0.25": 12,
+    "n_rounds_above_1.0": 1
+   }
+  },
+  "0.2": {
+   "n": 51,
+   "delta_needed_median": 0.080196331832237,
+   "delta_needed_quantiles": {
+    "0.1": 0.002875141333776663,
+    "0.25": 0.0051032919472186215,
+    "0.5": 0.080196331832237,
+    "0.75": 0.22385036368809014,
+    "0.9": 0.9086757618906364
+   },
+   "n_need_above_0.05": 29,
+   "n_need_above_0.1": 23,
+   "n_need_above_0.25": 12,
+   "n_need_above_1.0": 4,
+   "n_above_penalty_cap": 51,
+   "per_round": {
+    "n_rounds": 42,
+    "n_rounds_several": 6,
+    "n_market_rounds_in_rounds_above_0.001": 51,
+    "n_market_rounds_in_rounds_above_0.05": 33,
+    "n_market_rounds_in_rounds_above_0.1": 28,
+    "n_market_rounds_in_rounds_above_0.25": 15,
+    "n_market_rounds_in_rounds_above_1.0": 4,
+    "n_rounds_above_0.001": 42,
+    "n_rounds_above_0.05": 28,
+    "n_rounds_above_0.1": 23,
+    "n_rounds_above_0.25": 13,
+    "n_rounds_above_1.0": 4
+   }
+  },
+  "0.25": {
+   "n": 51,
+   "delta_needed_median": 0.09623559819868441,
+   "delta_needed_quantiles": {
+    "0.1": 0.0034501696005319956,
+    "0.25": 0.006123950336662345,
+    "0.5": 0.09623559819868441,
+    "0.75": 0.26862043642570815,
+    "0.9": 1.0904109142687637
+   },
+   "n_need_above_0.05": 29,
+   "n_need_above_0.1": 25,
+   "n_need_above_0.25": 13,
+   "n_need_above_1.0": 6,
+   "n_above_penalty_cap": 51,
+   "per_round": {
+    "n_rounds": 42,
+    "n_rounds_several": 6,
+    "n_market_rounds_in_rounds_above_0.001": 51,
+    "n_market_rounds_in_rounds_above_0.05": 33,
+    "n_market_rounds_in_rounds_above_0.1": 29,
+    "n_market_rounds_in_rounds_above_0.25": 15,
+    "n_market_rounds_in_rounds_above_1.0": 6,
+    "n_rounds_above_0.001": 42,
+    "n_rounds_above_0.05": 28,
+    "n_rounds_above_0.1": 24,
+    "n_rounds_above_0.25": 13,
+    "n_rounds_above_1.0": 6
+   }
+  },
+  "0.3": {
+   "n": 51,
+   "delta_needed_median": 0.1202944977483555,
+   "delta_needed_quantiles": {
+    "0.1": 0.004312712000664994,
+    "0.25": 0.007654937920827931,
+    "0.5": 0.1202944977483555,
+    "0.75": 0.3357755455321352,
+    "0.9": 1.3630136428359545
+   },
+   "n_need_above_0.05": 30,
+   "n_need_above_0.1": 27,
+   "n_need_above_0.25": 14,
+   "n_need_above_1.0": 6,
+   "n_above_penalty_cap": 51,
+   "per_round": {
+    "n_rounds": 42,
+    "n_rounds_several": 6,
+    "n_market_rounds_in_rounds_above_0.001": 51,
+    "n_market_rounds_in_rounds_above_0.05": 33,
+    "n_market_rounds_in_rounds_above_0.1": 31,
+    "n_market_rounds_in_rounds_above_0.25": 16,
+    "n_market_rounds_in_rounds_above_1.0": 6,
+    "n_rounds_above_0.001": 42,
+    "n_rounds_above_0.05": 28,
+    "n_rounds_above_0.1": 26,
+    "n_rounds_above_0.25": 14,
+    "n_rounds_above_1.0": 6
+   }
+  }
+ },
+ "lambda": 0.001
+}

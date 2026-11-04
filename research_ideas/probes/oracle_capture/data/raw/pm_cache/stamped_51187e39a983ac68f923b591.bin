@@ -1,0 +1,9 @@
+q: title: Will Kevin Warsh be formally nominated to be Chair of the Federal Reserve by February 18, 2026?, description: This market will resolve to “Yes” if Kevin Warsh is formally nominated to be Chair of the Federal Reserve by the listed date, 11:59 PM ET. 
+
+Formal nominations are defined as the submission of a nomination message to the U.S. Senate.
+
+Only a nomination message that nominates Kevin Warsh to be Chair of the Federal Reserve will qualify. A nomination solely to be a Member of the Federal Reserve Board of Governors will not qualify. A joint nomination both for membership on the Federal Reserve Board of Governors and for Chair of the Federal Reserve will count.
+
+Acting or interim appointments will not count unless the individual is formally nominated to be Chair of the Federal Reserve by submission of a nomination message to the U.S. Senate.
+
+The primary resolution source for this market will be official information from the U.S. Senate (see: https://www.senate.gov/legislative/nominations_new.htm), however a consensus of credible reporting may also be used. market_id: 1345914 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

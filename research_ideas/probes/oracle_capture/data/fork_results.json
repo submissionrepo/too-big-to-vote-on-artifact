@@ -1,0 +1,16 @@
+{
+ "forkCfEthBlock": "24,917,376",
+ "forkCfPolyBlock": "85,805,583",
+ "forkCfReveals": "496",
+ "forkCfHolders": "12",
+ "forkCfHeldM": "18.4",
+ "forkCfPaidM": "18.4",
+ "forkCfStakeGain": "21,769",
+ "forkBlkRound": "10314",
+ "forkBlkOIK": "601",
+ "forkBlkCoalitionPct": "35.8",
+ "forkBlkNoPct": "54.5",
+ "forkBlkRolls": "four",
+ "forkBlkStakeDelta": "+703",
+ "_blk_statement": "Fork replay of round 10314 (Will Donald Trump publicly insult someone on June 21, 2026?, DVM time 1782107618, fork block 25,390,910): the four largest voters on the request (35.8% of the stake; three had voted No) recommit Yes with their historical salts and reveal it inside their historical multicalls; the other reveals are replayed as cast. The live VotingV2 leaves the request Active and moves it to round 10315 (No 54.5%, Yes 41.0% of the stake). In constructed rounds 10315-10318 every voter of round 10314 commits and reveals its round-10314 answer from the same sender with a fresh salt: the request is Active after 10315, 10316 and 10317 and NotRequested after 10318 (rolled four times, deleted in the fifth round). The coalition's stake is 6,821,335.53 UMA before and 6,822,039.02 after its trackers are updated (no penalty for this request; the gain comes from other requests of round 10314). Polygon fork at block 89,152,383: the adapter (0x6507...) is not ready, resolve reverts, the payout denominator is 0; the administrator 0x3dce... flags the question, resolveManually reverts within the hour and succeeds after 3,601 seconds with payouts [0,1]."
+}

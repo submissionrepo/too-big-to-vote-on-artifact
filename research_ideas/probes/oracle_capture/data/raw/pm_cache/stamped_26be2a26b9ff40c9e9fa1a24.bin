@@ -1,0 +1,9 @@
+q: title: Israel x Hezbollah ceasefire by April 18, 2026?, description: This market will resolve to “Yes” if there is an official ceasefire agreement, defined as a publicly announced and mutually agreed halt in direct military engagement, between Israel and Hezbollah by the listed date, 11:59 PM ET.
+
+If the agreement is officially reached before the resolution date, this market will resolve to “Yes,” regardless of whether the ceasefire officially takes effect after the resolution date.
+
+Any form of informal understanding, backchannel communication, de-escalation without an announced agreement, or unilateral pause in hostilities will not be considered an official ceasefire. Humanitarian pauses, limited operational pauses, or temporary tactical stand-downs will not count toward the resolution of this market.
+
+A broader peace deal, normalization agreement, or political framework will qualify only if it includes a publicly announced and mutually agreed halt in military engagement between the Israel and Hezbollah, effective on a specified date, or otherwise confirmed by an overwhelming consensus of credible reporting. Agreements that outline future negotiations or de-escalation measures without an explicit, dated commitment to stop fighting will not qualify.
+
+This market’s resolution will be based on official statements from the Israeli Government and Hezbollah. However, a wide consensus of credible media reporting confirming that an official ceasefire agreement has been reached will suffice. market_id: 1994007 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

@@ -1,0 +1,10 @@
+{
+ "requests": 162,
+ "payout": 51,
+ "bond_only": 111,
+ "unknown": 0,
+ "market_rounds": 127,
+ "market_rounds_with_payout_vote": 51,
+ "market_rounds_bond_only": 76,
+ "market_rounds_unknown": 0
+}

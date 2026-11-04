@@ -1,0 +1,100 @@
+{
+ "mu=1/10 hF=0": {
+  "first_full_capture": "9/10",
+  "predicted": "9/10",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "mu=1/10 hF=1/10": {
+  "first_full_capture": "4/5",
+  "predicted": "4/5",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "mu=1/10 hF=1/4": {
+  "first_full_capture": "13/20",
+  "predicted": "13/20",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "mu=1/10 hF=2/5": {
+  "first_full_capture": "1/2",
+  "predicted": "1/2",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "mu=1/5 hF=0": {
+  "first_full_capture": "4/5",
+  "predicted": "4/5",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "mu=1/5 hF=1/10": {
+  "first_full_capture": "7/10",
+  "predicted": "7/10",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "mu=1/5 hF=1/4": {
+  "first_full_capture": "11/20",
+  "predicted": "11/20",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "mu=1/5 hF=2/5": {
+  "first_full_capture": "2/5",
+  "predicted": "2/5",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "mu=1/4 hF=0": {
+  "first_full_capture": "3/4",
+  "predicted": "3/4",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "mu=1/4 hF=1/10": {
+  "first_full_capture": "13/20",
+  "predicted": "13/20",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "mu=1/4 hF=1/4": {
+  "first_full_capture": "1/2",
+  "predicted": "1/2",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "mu=1/4 hF=2/5": {
+  "first_full_capture": "7/20",
+  "predicted": "7/20",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "mu=3/10 hF=0": {
+  "first_full_capture": "7/10",
+  "predicted": "7/10",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "mu=3/10 hF=1/10": {
+  "first_full_capture": "3/5",
+  "predicted": "3/5",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "mu=3/10 hF=1/4": {
+  "first_full_capture": "9/20",
+  "predicted": "9/20",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "mu=3/10 hF=2/5": {
+  "first_full_capture": "3/10",
+  "predicted": "3/10",
+  "ok": true,
+  "max(range - sigma/(1-2mu))": "0"
+ },
+ "self_financing_identity_1000_draws": true,
+ "all_ok": true
+}

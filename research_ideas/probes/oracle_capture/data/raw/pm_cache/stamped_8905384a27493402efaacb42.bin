@@ -1,0 +1,11 @@
+q: title: Chennai Open, Qualification: Mai Hontama vs Vaishnavi Adkar, description: This is a polymarket on the tennis match between Mai Hontama and Vaishnavi Adkar in the Chennai Open, Qualification, scheduled for October 25 at 8:00AM ET.
+
+This market will resolve to 'Hontama' if Mai Hontama advances against Vaishnavi Adkar.
+
+This market will resolve to 'Adkar' if Vaishnavi Adkar advances against Mai Hontama.
+
+If the match is canceled (not played at all), ends in a tie, or is delayed beyond 7 days from the scheduled date without a winner determined, this market will resolve to 50-50.
+
+If the match ends in a walkover (player withdraws before the start and the other advances automatically), this market will resolve in favor of the player(s) who officially advances to the next round.
+
+The primary resolution source will be official information from the WTA Tour. A consensus of credible reporting may also be used. market_id: 648174 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to Adkar, p2 to Hontama, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

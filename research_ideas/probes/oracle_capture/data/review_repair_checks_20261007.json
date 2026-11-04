@@ -1,0 +1,46 @@
+{
+ "E17": {
+  "bounded_instances": 3099,
+  "bounded_allF_ok": 2812,
+  "bounded_allT_ok": 1630,
+  "bounded_failures": [],
+  "break_instances_F": 1840,
+  "break_F_detected": 1840,
+  "break_instances_T": 1840,
+  "break_T_detected": 1840,
+  "bounded_allF_claims": 2812,
+  "bounded_allT_claims": 1630,
+  "ok": true
+ },
+ "E18": {
+  "N": 40,
+  "cases": {
+   "mu=1/10 hF=0 F=Yes": "ok",
+   "mu=1/10 hF=0 F=No": "ok",
+   "mu=1/10 hF=1/10 F=Yes": "ok",
+   "mu=1/10 hF=1/10 F=No": "ok",
+   "mu=1/10 hF=1/4 F=Yes": "ok",
+   "mu=1/10 hF=1/4 F=No": "ok",
+   "mu=1/10 hF=2/5 F=Yes": "ok",
+   "mu=1/10 hF=2/5 F=No": "ok",
+   "mu=1/5 hF=0 F=Yes": "ok",
+   "mu=1/5 hF=0 F=No": "ok",
+   "mu=1/5 hF=1/10 F=Yes": "ok",
+   "mu=1/5 hF=1/10 F=No": "ok",
+   "mu=1/5 hF=1/4 F=Yes": "ok",
+   "mu=1/5 hF=1/4 F=No": "ok",
+   "mu=1/5 hF=2/5 F=Yes": "ok",
+   "mu=1/5 hF=2/5 F=No": "ok",
+   "mu=3/10 hF=0 F=Yes": "ok",
+   "mu=3/10 hF=0 F=No": "ok",
+   "mu=3/10 hF=1/10 F=Yes": "ok",
+   "mu=3/10 hF=1/10 F=No": "ok",
+   "mu=3/10 hF=1/4 F=Yes": "ok",
+   "mu=3/10 hF=1/4 F=No": "ok",
+   "mu=3/10 hF=2/5 F=Yes": "ok",
+   "mu=3/10 hF=2/5 F=No": "ok"
+  },
+  "ok": true
+ },
+ "all_ok": true
+}

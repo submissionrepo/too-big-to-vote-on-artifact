@@ -1,0 +1,17 @@
+q: title: James Comey arrested by October 31?, description: This market will resolve to "Yes" if James B. Comey is arrested between September 25 and October 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+A qualifying arrest/detention includes:
+* Being taken into physical custody by law enforcement authorities (including federal, state, local, military, or international law enforcement)
+* Voluntarily surrendering to law enforcement authorities in response to an arrest warrant
+* Being formally booked or processed following detention
+* Being handcuffed by a state authority and taken to a police station
+* Surrendering at a police station or courthouse with their attorney
+* Being placed under house arrest or electronic monitoring
+
+The following scenarios will NOT qualify as an arrest/detention
+* An arrest warrant being issued but not executed
+* Being briefly detained but not arrested (e.g. such as in the South Korean judicial system when an individual is awaiting a judge’s decision on whether to grant a detention warrant)
+* Being questioned or interviewed without arrest
+* Being named in an indictment without arrest
+
+The primary resolution source for this market will be official information from the arresting government and law enforcement, however a consensus of credible reporting may also be used. market_id: 614689 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

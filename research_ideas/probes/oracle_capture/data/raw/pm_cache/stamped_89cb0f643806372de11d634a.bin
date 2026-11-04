@@ -1,0 +1,11 @@
+q: title: Will LLA win the most seats in the Chamber of Deputies following the 2025 Argentina election?, description: The 2025 election for half of the seats in Argentina's Chamber of Deputies is scheduled to be held on October 26, 2025.
+
+This market will resolve to the political party that wins the greatest number of the seats that are contested in this election.
+
+If voting in the next Argentine election for the Chamber of Deputies does not occur by January 31, 2026, this market will resolve to "Other".
+
+In the case of a tie between this party and any other for the most seats won, this market will resolve in favor of the party whose listed abbreviation comes first in alphabetical order.
+
+This market's resolution will be based solely on the number of seats won by the named party or coalition. 
+
+This market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by Argentina's government (e.g. via https://www.electoral.gob.ar/nuevo/index.php)., res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown. This request MUST only resolve to p1 or p2.  Updates made by the question creator via the bulletin board at 0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:2f5e3684cb1f318ec51b00edba38d79ac2c0aa9d

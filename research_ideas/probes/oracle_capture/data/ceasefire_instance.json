@@ -1,0 +1,61 @@
+{
+ "fees_enabled": false,
+ "tick": 0.001,
+ "negRisk": false,
+ "vote_to_reveal": {
+  "net_buyers": 1285,
+  "net_shares": 52850948.55906111,
+  "cost": 67918.90997448505,
+  "revenue": 52783029.649086624,
+  "largest_buyer_share": 0.10144262560093277,
+  "no_bought_gross": 80251991.33361,
+  "no_bought_at_tick_share": 0.8532352059197132,
+  "yes_bought": 55541989.57060088,
+  "yes_avg_price": 0.9987158698067213,
+  "no_bought_in_mint_matches_share": 0.7148248885612466
+ },
+ "reveal_to_decisive": {
+  "net_buyers": 131,
+  "net_shares": 5460133.2,
+  "cost": 5460.133199999999,
+  "revenue": 5454673.0668,
+  "largest_buyer_share": 0.18314571519976838,
+  "no_bought_gross": 5461133.2,
+  "no_bought_at_tick_share": 1.0,
+  "yes_bought": 4280570.07,
+  "yes_avg_price": 0.9989999999999992,
+  "no_bought_in_mint_matches_share": 0.8864558000526338
+ },
+ "net_shares_total": 58311081.75906111,
+ "cost_total": 73379.04317448505,
+ "revenue_total": 58237702.71588663,
+ "oi_path": {
+  "escalation": 959277.1442389992,
+  "escalation_plus_24h": 24970596.88163185,
+  "commit_start": 34100906.67463186,
+  "reveal_start": 53464540.50993189,
+  "decisive_reveal": 57635287.799931936,
+  "round_end": 61395085.379932076
+ },
+ "t_escalation": 1776367482,
+ "voters": 496,
+ "votes_by_answer_share_of_staked": {
+  "p1": 0.014063054549071963,
+  "p2": 0.8245580830877565,
+  "p4": 0.11129406228703338
+ },
+ "h_no": 0.014063054549071963,
+ "capture_needs": 0.635936945450928,
+ "coalition_k": 19,
+ "coalition_share": 0.6438096981094119,
+ "largest_voter_share": 0.08610584094528206,
+ "staked_supply": 17655496.0,
+ "uma_price": 0.461,
+ "stake_value": 8139183.656,
+ "coalition_stake_value": 5240085.3724264195,
+ "capture_stake_value": 5176008.0,
+ "uma_total_supply_now": 131486642.83177051,
+ "all_uma_value": 60615342.34544621,
+ "revenue_over_stake_value": 7.155226516231179,
+ "revenue_over_all_uma": 0.9607749533771593
+}

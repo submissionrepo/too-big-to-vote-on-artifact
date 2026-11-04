@@ -1,0 +1,101 @@
+{
+ "grid_with_half_N24": {
+  "N": 24,
+  "with_half": true,
+  "cases": 5848,
+  "splits": 5259148,
+  "failures": [],
+  "n_failures": 0
+ },
+ "grid_N40": {
+  "N": 40,
+  "with_half": false,
+  "cases": 24680,
+  "splits": 18733636,
+  "failures": [],
+  "n_failures": 0
+ },
+ "construction": [
+  {
+   "mu": "1/10",
+   "pi": "1",
+   "ok": true
+  },
+  {
+   "mu": "1/10",
+   "pi": "9/10",
+   "ok": true
+  },
+  {
+   "mu": "1/10",
+   "pi": "3/5",
+   "ok": true
+  },
+  {
+   "mu": "1/10",
+   "pi": "3/10",
+   "ok": true
+  },
+  {
+   "mu": "1/5",
+   "pi": "1",
+   "ok": true
+  },
+  {
+   "mu": "1/5",
+   "pi": "9/10",
+   "ok": true
+  },
+  {
+   "mu": "1/5",
+   "pi": "3/5",
+   "ok": true
+  },
+  {
+   "mu": "1/5",
+   "pi": "3/10",
+   "ok": true
+  },
+  {
+   "mu": "1/4",
+   "pi": "1",
+   "ok": true
+  },
+  {
+   "mu": "1/4",
+   "pi": "9/10",
+   "ok": true
+  },
+  {
+   "mu": "1/4",
+   "pi": "3/5",
+   "ok": true
+  },
+  {
+   "mu": "1/4",
+   "pi": "3/10",
+   "ok": true
+  },
+  {
+   "mu": "3/10",
+   "pi": "1",
+   "ok": true
+  },
+  {
+   "mu": "3/10",
+   "pi": "9/10",
+   "ok": true
+  },
+  {
+   "mu": "3/10",
+   "pi": "3/5",
+   "ok": true
+  },
+  {
+   "mu": "3/10",
+   "pi": "3/10",
+   "ok": true
+  }
+ ],
+ "all_pass": true
+}

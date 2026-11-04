@@ -1,0 +1,5 @@
+q: title: Will a balloon deflate during the 2025 Macy's Thanksgiving Day Parade?, description: This market will resolve to "Yes" if any balloon featured in the 2025 Macy's Thanksgiving Day Parade (https://www.macys.com/s/parade/lineup/) visibly deflates during the parade broadcast on November 27, 2025. Otherwise, this market will resolve to "No".
+
+A balloon will be considered "deflated" if it significantly loses air, resulting in a notable change in its shape, size, or ability to float as intended. Minor leaks or damage that do not visibly alter the balloon's appearance or functionality will not count.
+
+The resolution source will be the official NBC broadcast of the parade. market_id: 706278 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

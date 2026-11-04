@@ -1,0 +1,73 @@
+{
+ "from_block": 69461000,
+ "to_block": 69745000,
+ "payout_redemption_logs_scanned": 194133,
+ "hits": 1097,
+ "redeemers": 960,
+ "total_payout_usdc": 1129632.504192,
+ "top_redeemers_usdc": [
+  [
+   "0x44c1dfe43260c94ed4f1d00de2e1f80fb113ebc1",
+   169663.755487
+  ],
+  [
+   "0x42a6ddf7cf7032972b0bfe32775e8109c5171b64",
+   122996.467543
+  ],
+  [
+   "0x6155109ac32c1a25255cddbb7d45c743dca47ebb",
+   87069.582852
+  ],
+  [
+   "0x6bab41a0dc40d6dd4c1a915b8c01969479fd1292",
+   76272.844165
+  ],
+  [
+   "0x000d257d2dc7616feaef4ae0f14600fdf50a758e",
+   47727.929776
+  ],
+  [
+   "0x509587cbb541251c74f261df3421f1fcc9fdc97c",
+   40822.997071
+  ],
+  [
+   "0x448861155279dbf833d041b963e3ac854599e319",
+   36557.5
+  ],
+  [
+   "0x7c3db723f1d4d8cb9c550095203b686cb11e5c6b",
+   28988.915326
+  ],
+  [
+   "0x889e7f0464c72eb8cda1525ebc12b6aaba9d09e0",
+   27958.539404
+  ],
+  [
+   "0x805a922574d7d6b158b7bbb49a6fa8925eb60635",
+   23660.43
+  ],
+  [
+   "0x7e30c3a56d89edac738d788dd218a9e64fb91e50",
+   22865.32
+  ],
+  [
+   "0x4d3e59470cd241c4382cabbd2bfd10037cce58c7",
+   22306.400971
+  ],
+  [
+   "0x48185887c8dc95de60ee89722f1d0ee7894cbf0b",
+   20742.13
+  ],
+  [
+   "0x200544427dfc822652cb55ca5ca9f99476a9e414",
+   18690.7
+  ],
+  [
+   "0x68c24bf4a8ad4d79a6fe4b8eec6f93a02dfd1711",
+   18000.317142
+  ]
+ ],
+ "unredeemed_yes_shares_now": 17735.361044000005,
+ "first_hit_block": 69461778,
+ "last_hit_block": 69743816
+}

@@ -1,0 +1,7 @@
+q: title: Will "Materialists" Opening Weekend Box Office be between $13m and $16m?, description: This market will resolve according to how much “Materialists” (2025) will gross domestically on its opening weekend. The “Box Office” https://www.the-numbers.com/movie/Materialists-(2025)#tab=summary will be used to resolve this market once the values for the 3-day opening weekend (June 13 - June 15) are final (i.e. not studio estimates).
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note, this market will resolve according to the The Numbers figures provided under Weekend Box Office Performance for the 3-day weekend (which typically includes Thursday's previews), regardless of whether domestic refers to only the USA, or to USA and Canada, etc.
+
+If there is no final data available by June 30, 2025, 11:59 PM ET, another credible resolution source will be chosen. market_id: 551052 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown. This request MUST only resolve to p1 or p2.  Updates made by the question creator via the bulletin board at 0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:2f5e3684cb1f318ec51b00edba38d79ac2c0aa9d

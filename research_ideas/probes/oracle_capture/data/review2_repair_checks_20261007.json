@@ -1,0 +1,26 @@
+{
+ "E19": {
+  "N": 40,
+  "cases": {
+   "staked_strict theta=1/2": "ok",
+   "staked_strict theta=11/20": "ok",
+   "staked_strict theta=13/20": "ok",
+   "staked_strict theta=4/5": "ok",
+   "staked_weak theta=1/2": "ok",
+   "staked_weak theta=11/20": "ok",
+   "staked_weak theta=13/20": "ok",
+   "staked_weak theta=4/5": "ok",
+   "votes_cast_strict theta=1/2": "ok",
+   "votes_cast_strict theta=11/20": "ok",
+   "votes_cast_strict theta=13/20": "ok",
+   "votes_cast_strict theta=4/5": "ok"
+  },
+  "ok": true
+ },
+ "E20": {
+  "identity_residual": "0",
+  "grid_min_slack": "0",
+  "ok": true
+ },
+ "all_ok": true
+}

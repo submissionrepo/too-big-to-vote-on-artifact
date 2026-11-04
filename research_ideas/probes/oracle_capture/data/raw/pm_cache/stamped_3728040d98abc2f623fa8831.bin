@@ -1,0 +1,9 @@
+q: title: Will MrBeast's next video get less than 70 million views on week 1?, description: This market will resolve according to the number of views the next YouTube video posted by MrBeast gets in the first 7 days after being posted.
+
+If MrBeast does not post a YouTube video by January 31, 2026, 11:59 PM ET, this market will resolve to the lowest range bracket.
+
+If the reported value falls exactly between two brackets, this market will resolve to the higher range bracket.
+
+The resolution source for this is MrBeast's YouTube channel (https://www.youtube.com/@MrBeast), specifically the 'views' counter for the described video.
+
+Note: This market refers to MrBeast's next video posted. Shorts, previews, or other videos released other than the referenced video will not be considered. market_id: 643001 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown. This request MUST only resolve to p1 or p2.  Updates made by the question creator via the bulletin board at 0x2F5e3684cb1F318ec51b00Edba38d79Ac2c0aA9d should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:2f5e3684cb1f318ec51b00edba38d79ac2c0aa9d

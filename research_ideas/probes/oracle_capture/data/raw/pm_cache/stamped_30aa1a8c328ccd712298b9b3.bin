@@ -1,0 +1,9 @@
+q: title: Israel strikes Syria by August 31?, description: This market will resolve to "Yes" if Israel initiates a drone, missile, or air strike on Syrian soil or any Syrian embassy or consulate between July 21, 3:00 PM ET and August 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+For the purposes of this market, a qualifying "strike" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact Syrian ground territory or any official Syrian embassy or consulate (e.g., if a weapons depot on Syrian soil is hit by an Israeli missile, this market will resolve to "Yes") that is officially acknowledged by the Israeli government or a consensus of credible reporting.
+
+Missiles or drones which are intercepted and surface-to-air missile strikes will not be sufficient for a "Yes" resolution regardless of whether they land on Syrian territory or cause damage.
+
+Actions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.
+
+The resolution source will be a consensus of credible reporting. market_id: 566100 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x6A9D222616C90FcA5754cd1333cFD9b7fb6a4F74 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:157ce2d672854c848c9b79c49a8cc6cc89176a49

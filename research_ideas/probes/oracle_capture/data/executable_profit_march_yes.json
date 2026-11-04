@@ -1,0 +1,25 @@
+{
+ "windows": {
+  "dispute_to_reveal_start": {
+   "trades": 2019,
+   "net_yes_shares": 97595,
+   "cost": 23910,
+   "revenue_if_yes": 73685
+  },
+  "reveal_start_to_last_whale": {
+   "trades": 1830,
+   "net_yes_shares": 151679,
+   "cost": 28996,
+   "revenue_if_yes": 122683
+  },
+  "after_last_whale": {
+   "trades": 661,
+   "net_yes_shares": 120210,
+   "cost": 52495,
+   "revenue_if_yes": 67714
+  }
+ },
+ "total": 264082,
+ "whale_stake_value": 7162639.362798087,
+ "break_even": 0.036869369882226805
+}

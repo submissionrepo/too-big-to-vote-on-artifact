@@ -1,0 +1,26 @@
+q: title: US announces new Iran agreement/ceasefire extension by June 15?, description: This market will resolve to “Yes” if the U.S. officially announces an extension of the ceasefire agreement between the U.S. and Iran, defined as a publicly announced commitment to the continued halt of direct military engagement with Iran or announces a new peace agreement, ceasefire framework, or diplomatic agreement under which the ceasefire will continue by the specified date 11:59 PM ET. Otherwise, this market will resolve to "No".
+
+If a qualifying announcement is officially made before the resolution date, this market will resolve to “Yes,” regardless of whether the ceasefire extension ultimately takes effect.
+
+A qualifying announcement requires clear public confirmation from the U.S. government that the U.S. has either:
+
+1. Extended its commitment to the ceasefire, either as a dated/time-based extension (e.g. a 60 day extension) or through an explicit statement that the ceasefire has been extended.
+
+2. Renewed the existing ceasefire as part of a broader peace agreement, ceasefire framework, or diplomatic agreement under which the ceasefire will continue.
+
+Statements which merely acknowledge, reaffirm, or describe the current ceasefire as remaining in effect, or which outline further negotiations or de-escalation measures, without announcing a new extension period, or successor agreement under which the ceasefire will continue, will not qualify.
+
+The following would qualify:
+- President Trump announcing that “the ceasefire has been extended for another 60 days.”
+- An official U.S. statement announcing that “the United States and Iran have agreed to extend the ceasefire framework while negotiations continue.”
+- President Trump’s April 21, 2026 announcement extending the ceasefire “until the Iranian negotiators could reach a unified proposal.”
+- An announcement that the US and Iran have agreed to a new temporary framework under which the ceasefire would continue as Iran gradually reopens the Strait of Hormuz and the United States begins to unfreeze Iranian assets would qualify.
+
+The following would not qualify:
+- Statements that the ceasefire merely “remains in effect” or “continues to hold,” without announcing a new extension, renewal, or successor agreement.
+- Statements that “the ceasefire will remain in effect while negotiations continue,” without announcing that the ceasefire itself has been extended, or a new framework or deal has been reached
+- Statements that negotiations are progressing, that talks are ongoing, or that the parties are “getting closer” to a deal, without announcing that the ceasefire itself has been extended, renewed, or continued under a new agreement.
+
+An overwhelming consensus of credible reporting that a qualifying extension or successor agreement has been definitively established will also suffice for a “Yes” resolution.
+
+This market’s resolution will be based on official statements from the U.S. government and will not require confirmation from Iran.  market_id: 2420774 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:f43d55f3a8b7484ed4b6931f93cb6f9ef5dd369d,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

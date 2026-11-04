@@ -1,0 +1,66 @@
+{
+ "events": [
+  "Steem",
+  "Compound 289",
+  "UMA",
+  "Maker flash vote",
+  "Curve, Mochi",
+  "Compound TUSD",
+  "Yam",
+  "Indexed"
+ ],
+ "all": {
+  "n": 8,
+  "A_reviewer": {
+   "sd_simple": 0.7305914311608878,
+   "cohen_d_80pct_power": 0.9781560854611863,
+   "mde_simple_pp": 71.46324543758197
+  },
+  "B_paper": {
+   "mean_log": 0.13422338337208023,
+   "se_timeseries": 0.05436407079358944,
+   "mde_80pct_power": 0.14127485640782644
+  },
+  "C_bounds": {
+   "mean_loss": -0.14364826311816148,
+   "se_crosssection": 0.14523055889933162,
+   "upper95_loss_timeseries_se": 0.0,
+   "upper95_loss_crosssection_t": 0.13144756969785776,
+   "unprotected_at_upper95_ts": null,
+   "unprotected_at_upper95_cs": 25,
+   "unprotected_at_14pct": 22
+  }
+ },
+ "without_indexed": {
+  "n": 7,
+  "A_reviewer": {
+   "sd_simple": 0.12545706911320778,
+   "cohen_d_80pct_power": 1.0666552457866025,
+   "mde_simple_pp": 13.381944089061543
+  },
+  "B_paper": {
+   "mean_log": -0.005480853776140608,
+   "se_timeseries": 0.04716664894826144,
+   "mde_80pct_power": 0.12378350984065967
+  },
+  "C_bounds": {
+   "mean_loss": 0.0054658613001115075,
+   "se_crosssection": 0.04582053922345173,
+   "upper95_loss_timeseries_se": 0.07971326709522553,
+   "upper95_loss_crosssection_t": 0.09018902610044133,
+   "unprotected_at_upper95_ts": 38,
+   "unprotected_at_upper95_cs": 34,
+   "unprotected_at_14pct": 22
+  }
+ },
+ "D_budget_iff": {
+  "theta": "1/2",
+  "h_F": "7/25",
+  "alpha_inf": "11/50",
+  "alpha_profitable": "1/4",
+  "pool_gain_rise": "9/5300000",
+  "cost_rise": "3/10000000",
+  "eq1_holds_at_infimum": true,
+  "profit_of_larger_coalition": "43/33125000"
+ }
+}

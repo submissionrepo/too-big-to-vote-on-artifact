@@ -1,0 +1,137 @@
+{
+ "n": 50,
+ "E_total": 144384978,
+ "E_median": 523416.5,
+ "E_max": 58237703,
+ "E_over_OI_median": 0.5269061287919177,
+ "delta_exec_quantiles": {
+  "0.5": 0.029492797605305106,
+  "0.9": 0.6405773241838575
+ },
+ "delta_exec_max": 11.251470769729613,
+ "n_delta_exec_ge": {
+  "0.01": 28,
+  "0.05": 24,
+  "0.1": 18,
+  "0.25": 11,
+  "1.0": 2
+ },
+ "top": [
+  {
+   "title": "Israel x Hezbollah ceasefire by April 18, 2026?",
+   "roundId": "10281",
+   "E": 58237703,
+   "oi": 61395085.38,
+   "V_F": 5176008.0,
+   "delta_exec": 11.251470769729613,
+   "sigma_F": 0.63594
+  },
+  {
+   "title": "Will \"Donk\" be said during the PGL Bucharest 2026 Grand Final?",
+   "roundId": "10279",
+   "E": 4212412,
+   "oi": 4439576.18,
+   "V_F": 4108383.0,
+   "delta_exec": 1.025321080184484,
+   "sigma_F": 0.50453
+  },
+  {
+   "title": "Tesla launches unsupervised full self driving (FSD) by June 30?",
+   "roundId": "10242",
+   "E": 8974692,
+   "oi": 9313005.24,
+   "V_F": 9264277.0,
+   "delta_exec": 0.9687417099087717,
+   "sigma_F": 0.64784
+  },
+  {
+   "title": "Will Trump agree to withdraw troops from the Iranian region by June 30?",
+   "roundId": "10312",
+   "E": 4139635,
+   "oi": 4809836.06,
+   "V_F": 5286137.0,
+   "delta_exec": 0.7831114851461173,
+   "sigma_F": 0.64999
+  },
+  {
+   "title": "Will Trump launch a coin before the election?",
+   "roundId": "10006",
+   "E": 21102925,
+   "oi": 38566060.84,
+   "V_F": 29930386.0,
+   "delta_exec": 0.7050669067034999,
+   "sigma_F": 0.49988
+  },
+  {
+   "title": "Clavicular pregnancy in 2026?",
+   "roundId": "10286",
+   "E": 3637800,
+   "oi": 5724426.07,
+   "V_F": 5678939.0,
+   "delta_exec": 0.6405773241838575,
+   "sigma_F": 0.65
+  },
+  {
+   "title": "Trump declassifies UFO files in 2025?",
+   "roundId": "10215",
+   "E": 6726098,
+   "oi": 8089499.44,
+   "V_F": 13751615.0,
+   "delta_exec": 0.4891132798799023,
+   "sigma_F": 0.65
+  },
+  {
+   "title": "US x Iran meeting by April 10, 2026?",
+   "roundId": "10278",
+   "E": 1696670,
+   "oi": 1832656.5,
+   "V_F": 4100351.0,
+   "delta_exec": 0.41378661530334754,
+   "sigma_F": 0.55239
+  }
+ ],
+ "top1": {
+  "n_capturable": 0,
+  "max_delta": null,
+  "n_ge_0.01": 0
+ },
+ "top2": {
+  "n_capturable": 2,
+  "max_delta": 0.005429323585621251,
+  "n_ge_0.01": 0
+ },
+ "top4": {
+  "n_capturable": 6,
+  "max_delta": 0.028424679427921026,
+  "n_ge_0.01": 1
+ },
+ "top10": {
+  "n_capturable": 39,
+  "max_delta": 0.8645104658378795,
+  "n_ge_0.01": 19
+ },
+ "march": {
+  "roundId": "10085",
+  "conditionId": "0x1663edea3eba0d1ae8f064276dd426cb0497a19bb5188dae48a2f8fa8ea34da8",
+  "title": "Ukraine agrees to Trump mineral deal before April?",
+  "F": "p1",
+  "era": "A",
+  "sigma_F": 0.49995,
+  "oi": 987056.21,
+  "V_F": 16093221.0,
+  "status": "ok",
+  "w1_shares": 69476,
+  "w1_revenue": 18181,
+  "w2_shares": 114632,
+  "w2_revenue": 21840,
+  "gross_bought": 255833,
+  "E": 40022,
+  "E_over_OI": 0.040546436534444924,
+  "delta_exec": 0.0024868615160815065,
+  "stake_value_total": 32189660.341000002,
+  "delta_top1": null,
+  "delta_top2": null,
+  "delta_top4": null,
+  "delta_top10": 0.002077777057985705
+ }
+}

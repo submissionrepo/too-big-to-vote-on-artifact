@@ -1,0 +1,15 @@
+q: title: Will Trump say "Nancy" or "Pelosi" this week? (March 22), description: This market will resolve to “Yes” if Donald Trump mentions the listed term between March 16, 2026, 12:00 AM ET and March 22, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+Plural and possessive forms of the listed term will count toward the resolution of this market regardless of context; however, other forms will NOT count.
+
+Instances where the term is used in a compound word will count regardless of context (e.g. joyful is not a compound word for "joy," however "killjoy" is a compounding of the words "kill" and "joy").
+
+If this market requires a specified number of mentions of a person’s first or last name, a full-name mention will count as one mention (e.g., if a market is about “Joe / Biden 5+ times,” a mention of “Joe Biden” will count once).
+
+A ‘mention’ will include any verbal mention which is recorded (audio or video) and publicly accessible.
+
+Written usages of terms (e.g. Truth Social posts, written statements, etc.) will not count toward this market's resolution.
+
+AI-generated audio or video will not count toward this market's resolution.
+
+Videos posted on his social media which were filmed outside this market's time frame will not qualify for a "Yes" resolution. market_id: 1570802 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:91430cad2d3975766499717fa0d66a78d814e5c5,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7

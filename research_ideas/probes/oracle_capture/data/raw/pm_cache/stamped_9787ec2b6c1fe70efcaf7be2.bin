@@ -1,0 +1,9 @@
+q: title: Will Donald Trump publicly insult someone on June 21, 2026?, description: This market will resolve to "Yes" if Donald Trump makes any public statement in which he insults, mocks, or attacks any non-fictional individual personally or professionally in a clearly negative manner on the specified date (ET). Otherwise, this market will resolve to "No". 
+
+This includes calling the individual weak, stupid, disloyal, a failure, using an insulting nickname, using other derogatory language, or using the negative form of a positive trait in a derogatory personal way (e.g., “He/She isn’t smart”). Negative forms used in reference to the individual's professional actions, policies, or decisions (e.g., “He/She isn’t being smart about this policy”) will not count. Policy disagreements stated without disparaging language will not count.
+
+A direct reference will qualify even if the individual is not named, so long as it is reasonably clear from context that they are the subject.
+
+Any written, verbal, or recorded public statement by Trump qualifies.
+
+The resolution source will be a consensus of credible reporting. market_id: 2412317 res_data: p1: 0, p2: 1, p3: 0.5. Where p1 corresponds to No, p2 to Yes, p3 to unknown/50-50. Updates made by the question creator via the bulletin board at 0x65070BE91477460D8A7AeEb94ef92fe056C2f2A7 as described by https://polygonscan.com/tx/0xa14f01b115c4913624fc3f508f960f4dea252758e73c28f5f07f8e19d7bca066 should be considered.,initializer:f43d55f3a8b7484ed4b6931f93cb6f9ef5dd369d,ooRequester:65070be91477460d8a7aeeb94ef92fe056c2f2a7
