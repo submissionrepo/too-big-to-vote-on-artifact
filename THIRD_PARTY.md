@@ -8,7 +8,6 @@
 | Python packages | Versions in `requirements.txt` | Installed separately under their upstream licenses |
 | Blockchain logs and public API responses | Sources listed in `docs/data.md` | Public observations retained for research reproducibility; upstream service terms still apply |
 
-No new blanket license is applied to the manuscript, proofs, data, or Python
-code in this private preparation repository. The authors can choose distribution
-terms when making the repository public. Existing third-party and source-file
-license notices remain in effect.
+Original code and documentation are distributed under the MIT License in `LICENSE`.
+Third-party source-file notices remain in effect. The license does not replace
+the source services' terms for public observations and datasets.
