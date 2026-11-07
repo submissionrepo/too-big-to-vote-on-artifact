@@ -21,6 +21,10 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{umahow}
+{UMA Protocol}, ``How does {UMA} work?'' UMA documentation,
+  \url{https://docs.uma.xyz/protocol-overview/how-does-umas-oracle-work}, 2026.
+
 \bibitem{freeman2017}
 R.~Freeman, S.~Lahaie, and D.~M. Pennock, ``Crowdsourced outcome determination
   in prediction markets,'' in \emph{AAAI Conference on Artificial
@@ -41,60 +45,6 @@ R.~Freeman, S.~Lahaie, and D.~M. Pennock, ``Crowdsourced outcome determination
 \bibitem{umaspat2025}
 {UMA Protocol}, ``Increase {SPAT} to 65\%,'' UMA governance forum,
   \url{https://discourse.uma.xyz/t/increase-spat-to-65/2177}, 2025.
-
-\bibitem{malkhi2019}
-D.~Malkhi, K.~Nayak, and L.~Ren, ``Flexible {Byzantine} fault tolerance,'' in
-  \emph{ACM Conference on Computer and Communications Security (CCS)}, 2019,
-  pp. 1041--1053.
-
-\bibitem{gnosisctf}
-{Gnosis}, ``Conditional tokens framework,''
-  \url{https://github.com/gnosis/conditional-tokens-contracts}, 2020.
-
-\bibitem{polymarketadapter}
-{Polymarket}, ``{UMA} {CTF} adapter,''
-  \url{https://github.com/Polymarket/uma-ctf-adapter}, 2026.
-
-\bibitem{umadvm2}
-{UMA Protocol}, ``{DVM} 2.0 documentation and the {VotingV2} contract,''
-  \url{https://docs.uma.xyz/using-uma/voting-walkthrough/dvm-2.0}; source
-  \url{https://github.com/UMAprotocol/protocol}, 2026.
-
-\bibitem{wsj2026}
-{The Wall Street Journal}, ``The mysterious crypto judges who settle
-  {Polymarket} disputes,'' May 17, 2026.
-
-\bibitem{financemagnates2026}
-{Finance Magnates}, ``{Polymarket's} arbitration model faces
-  conflict-of-interest questions,''
-  \url{https://www.financemagnates.com/fintech/polymarkets-arbitration-model-faces-conflict-of-interest-questions/},
-  2026.
-
-\bibitem{umanextgen2025}
-{UMA Protocol}, ``{UMA}, {Polymarket} and {EigenLayer} research a next-gen
-  prediction market oracle,'' UMA blog,
-  \url{https://blog.uma.xyz/articles/uma-polymarket-and-eigenlayer-research-a-next-gen-prediction-market-oracle},
-  2025.
-
-\bibitem{sokdao2024}
-R.~Feichtinger, R.~Fritsch, L.~Heimbach, Y.~Vonlanthen, and R.~Wattenhofer,
-  ``{SoK}: Attacks on {DAOs},'' in \emph{6th Conference on Advances in
-  Financial Technologies (AFT 2024)}, ser. LIPIcs, vol. 316, 2024, pp.
-  28:1--28:27.
-
-\bibitem{invezz2024}
-{Invezz}, ``Compound ({COMP}) price slips 6\% after controversial governance
-  proposal's approval,''
-  \url{https://invezz.com/news/2024/07/29/compound-comp-price-slips-6-after-controversial-governance-proposals-approval/},
-  2024.
-
-\bibitem{ctfexchange}
-{Polymarket}, ``{CTF} exchange,''
-  \url{https://github.com/Polymarket/ctf-exchange}, 2026.
-
-\bibitem{foundry}
-{Paradigm}, ``{Foundry}: A portable, fast and modular toolkit for {Ethereum}
-  application development,'' \url{https://github.com/foundry-rs/foundry}, 2026.
 
 \bibitem{carlsten2016}
 M.~Carlsten, H.~Kalodner, S.~M. Weinberg, and A.~Narayanan, ``On the
@@ -154,6 +104,12 @@ V.~Buterin, ``The {P} + epsilon attack,'' Ethereum Foundation Blog, 2015,
 E.~Dal~B\'{o}, ``Bribing voters,'' \emph{American Journal of Political
   Science}, vol.~51, no.~4, pp. 789--803, 2007.
 
+\bibitem{umanextgen2025}
+{UMA Protocol}, ``{UMA}, {Polymarket} and {EigenLayer} research a next-gen
+  prediction market oracle,'' UMA blog,
+  \url{https://blog.uma.xyz/articles/uma-polymarket-and-eigenlayer-research-a-next-gen-prediction-market-oracle},
+  2025.
+
 \bibitem{srinivasan2023}
 S.~Srinivasan, E.~Karger, and Y.~Chen, ``Self-resolving prediction markets for
   unverifiable outcomes,'' in \emph{ACM Conference on Economics and Computation
@@ -164,6 +120,11 @@ X.~Deng, B.~Tao, and Y.~Wang, ``Aggregation of antagonistic contingent
   preferences: When is it possible?'' in \emph{Web and Internet Economics (WINE
   2024)}, ser. Lecture Notes in Computer Science.\hskip 1em plus 0.5em minus
   0.4em\relax Springer, 2026, pp. 3--21.
+
+\bibitem{malkhi2019}
+D.~Malkhi, K.~Nayak, and L.~Ren, ``Flexible {Byzantine} fault tolerance,'' in
+  \emph{ACM Conference on Computer and Communications Security (CCS)}, 2019,
+  pp. 1041--1053.
 
 \bibitem{eskandari2021}
 S.~Eskandari, M.~Salehi, W.~C. Gu, and J.~Clark, ``{SoK}: Oracles from the
@@ -182,6 +143,12 @@ P.~Kumar and D.~J. Seppi, ``Futures manipulation with `cash settlement',''
 \bibitem{hanson2009}
 R.~Hanson and R.~Oprea, ``A manipulator can aid prediction market accuracy,''
   \emph{Economica}, vol.~76, no. 302, pp. 304--314, 2009.
+
+\bibitem{sokdao2024}
+R.~Feichtinger, R.~Fritsch, L.~Heimbach, Y.~Vonlanthen, and R.~Wattenhofer,
+  ``{SoK}: Attacks on {DAOs},'' in \emph{6th Conference on Advances in
+  Financial Technologies (AFT 2024)}, ser. LIPIcs, vol. 316, 2024, pp.
+  28:1--28:27.
 
 \bibitem{kitzler2025}
 S.~Kitzler, M.~Paquet-Clouston, and B.~Haslhofer, ``The economic impact of
@@ -217,6 +184,16 @@ J.~Peterson, J.~Krug, M.~Zoltu, A.~K. Williams, and S.~Alexander, ``{Augur}: A
   \url{https://crypto.news/polymarket-suffers-governance-attack-due-to-uma-whale-intervention/},
   2025.
 
+\bibitem{wsj2026}
+{The Wall Street Journal}, ``The mysterious crypto judges who settle
+  {Polymarket} disputes,'' May 17, 2026.
+
+\bibitem{financemagnates2026}
+{Finance Magnates}, ``{Polymarket's} arbitration model faces
+  conflict-of-interest questions,''
+  \url{https://www.financemagnates.com/fintech/polymarkets-arbitration-model-faces-conflict-of-interest-questions/},
+  2026.
+
 \bibitem{cryptobriefing2026}
 {Crypto Briefing}, ``{Polymarket} delays voting process revamp as nine whales
   dominate disputes,''
@@ -237,6 +214,41 @@ G.~Wang, ``Do prediction markets price events or adjudication? {E}vidence from
 R.~Fritsch, M.~M{\"u}ller, and R.~Wattenhofer, ``Analyzing voting power in
   decentralized governance: Who controls {DAOs}?'' \emph{Blockchain: Research
   and Applications}, vol.~5, no.~3, p. 100208, 2024.
+
+\bibitem{gnosisctf}
+{Gnosis}, ``Conditional tokens framework,''
+  \url{https://github.com/gnosis/conditional-tokens-contracts}, 2020.
+
+\bibitem{polymarketadapter}
+{Polymarket}, ``{UMA} {CTF} adapter,''
+  \url{https://github.com/Polymarket/uma-ctf-adapter}, 2026.
+
+\bibitem{umadvm2}
+{UMA Protocol}, ``{DVM} 2.0 documentation and the {VotingV2} contract,''
+  \url{https://docs.uma.xyz/using-uma/voting-walkthrough/dvm-2.0}; source
+  \url{https://github.com/UMAprotocol/protocol}, 2026.
+
+\bibitem{carlsson1993}
+H.~Carlsson and E.~van Damme, ``Global games and equilibrium selection,''
+  \emph{Econometrica}, vol.~61, no.~5, pp. 989--1018, 1993.
+
+\bibitem{umaecon}
+{UMA Protocol}, ``How {UMA} solves the oracle problem,'' UMA documentation,
+  \url{https://contracts.docs.umaproject.org/oracle/econ-architecture}, 2022.
+
+\bibitem{invezz2024}
+{Invezz}, ``Compound ({COMP}) price slips 6\% after controversial governance
+  proposal's approval,''
+  \url{https://invezz.com/news/2024/07/29/compound-comp-price-slips-6-after-controversial-governance-proposals-approval/},
+  2024.
+
+\bibitem{ctfexchange}
+{Polymarket}, ``{CTF} exchange,''
+  \url{https://github.com/Polymarket/ctf-exchange}, 2026.
+
+\bibitem{foundry}
+{Paradigm}, ``{Foundry}: A portable, fast and modular toolkit for {Ethereum}
+  application development,'' \url{https://github.com/foundry-rs/foundry}, 2026.
 
 \bibitem{defillama}
 {DefiLlama}, ``Coins {API}: Historical token prices,''

@@ -32,3 +32,19 @@ the same calculation. No calculation relies on that ledger integration.
 ## Replay of the market-referenced fallback (Appendix B of the paper)
 
 $F_\mu$ at $\mu = 0.2$ moves 18 Polymarket votes that decided a payout, in 17 markets; a market voted on twice counts once, by its later vote, and the reference price is the hourly mean of Yes over the 24 hours before the request reached the vote. 7 resolved "too early" and 10 Yes or No. In 4 of the 10 the vote's winner had been priced below one half before the dispute, March 2025 among them; where the vote confirmed the market, $F_\mu$ costs the winners a median of 10 cents a share. These numbers stood in Appendix B of the paper until 2026-10-09 and now live here; they are the `replay*` keys of the paper's `numbers.json`, produced by the fallback replay script of the probes directory.
+
+## Gas of the prototype
+
+`TallyRootTunnel` and `TallyChildTunnel` carry the tally share of Section 5 of the paper as one more state-sync message through the FxPortal interfaces that UMA's oracle tunnel already uses; six tests run the path end to end with a mock bridge and check who may send. The relay's figure includes the mock bridge delivering to the child in the same transaction, which the real state sync does asynchronously, and the mock-based figure for the votes-cast reader omits the cold-storage reads of the live contract. The market-referenced adapter of Appendix B costs 54,246 gas on every fill for its price accumulator.
+
+Gas of the prototype (Foundry 1.8.5, solc 0.8.24, optimizer 200 runs); `python reproduce.py unit` reruns the tests.
+
+| Call | Gas | When |
+|---|---:|---|
+| register (MarginReader, mainnet fork) | 102,204 | per disputed request |
+| register (votes cast, mock) | 61,304 | per disputed request |
+| settle, undisputed (TallyAdapter) | 129,404 | per question |
+| settle, paid in full | 135,819 | per question |
+| settle, paid below full | 155,719 | per question |
+| relay (TallyRootTunnel, mock bridge) | 88,434 | per disputed request |
+| receive (TallyChildTunnel) | 24,528 | per disputed request |

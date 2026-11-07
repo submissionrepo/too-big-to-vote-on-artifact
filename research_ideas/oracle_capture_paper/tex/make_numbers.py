@@ -286,7 +286,7 @@ def main():
     put("realizedCaptureVotes", f"{100*float(Fr(rc['closed_form_votes'])):.2f}")
     put("realizedCaptureStaked", f"{100*float(Fr(rc['closed_form_staked'])):.2f}")
     put("laplacianGridPoints", thousands(cap["E4"]["grid_points"]))
-    # honest-electorate thresholds today (Theorems 2 and 3): block needs 1 - theta - hF, capture theta - hF
+    # honest-electorate thresholds today (Theorem 4 and the window after it): block needs 1 - theta - hF, capture theta - hF
     top1_share = conc["top1"]
     top4_share = sum(float(r["shareOfCumulative"]) for r in load_csv("voters_current.csv")[:4])
     put("windowEmptyAtTopFour", f"{100*(0.5 - top4_share):.2f}")
@@ -430,8 +430,7 @@ def main():
     put("whaleRestakesPaired", str(sum(1 for t in ra if any(abs(t - u) <= 120 for u in rb))))
     fresh = sorted(e["time"] for e in staked if e["from"].lower() != vot)
     put("whaleFirstStakeHours", f"{(fresh[2] - fresh[0]) / 3600:.1f}")
-    put("whaleFirstStakeDate", dt.datetime.fromtimestamp(fresh[0], dt.timezone.utc).strftime("%B %-d, %Y")
-        if os.name != "nt" else dt.datetime.fromtimestamp(fresh[0], dt.timezone.utc).strftime("%B %d, %Y").replace(" 0", " "))
+    put("whaleFirstStakeDate", dt.datetime.fromtimestamp(fresh[0], dt.timezone.utc).strftime("%B %Y"))
     cut = 1742774400  # 2025-03-24 00:00 UTC, the start of the reveal day
     month = [e for e in staked if cut - 30 * 86400 <= e["time"] < cut]
     assert all(e["from"].lower() == vot for e in month)
@@ -662,7 +661,7 @@ def main():
     # dates
     put("spatChangeDate", "April 20, 2025")
     put("deployDate", "February 24, 2023")
-    put("censusEnd", "October 6, 2026")
+    put("censusEnd", "early October 2026")
 
     # ---- when the prize was minted (prize_growth.py): standard-adapter markets with a payout vote
     pg = json.load(open(os.path.join(DATA, "prize_growth_summary.json")))
@@ -688,7 +687,7 @@ def main():
     put("prizeRolled", str(pg["rolled_first_ne_resolving"]))
 
     # ---- participation (2026-10-08): tally settlement's limit is delta (1 - 2 mu) pi V, pi the share of the staked
-    # supply that votes in the first round, on which the rule pays (Theorem 4 (iv), Corollary 1;
+    # supply that votes in the first round, on which the rule pays (Theorems 1 and 2;
     # first_round_participation.py). The full-participation counts set above from the upstream summaries are
     # recomputed here with pi = 1 as a check of this code, then replaced by the counts with each round's pi.
     fpp = {(r["roundId"], r["requestTime"], r["ancKey"]): float(r["pi_first"])

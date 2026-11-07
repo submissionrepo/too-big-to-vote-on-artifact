@@ -71,7 +71,7 @@ python scripts/unpack_data.py downloads
 python reproduce.py analysis
 ```
 
-Download the assets above, or
+Download the release assets above, or
 use the GitHub Release page to save the three ZIP files. The unpacking command
 also works on files downloaded in the browser. After extraction, allow about
 8 GB of free disk space in addition to the downloaded archives.

@@ -176,7 +176,7 @@ def fig_budget():
     rows = [r for r in csv.DictReader(open(os.path.join(DATA, "prize_growth.csv"), encoding="utf-8"))
             if r["status"] == "ok" and r["negRisk"] not in ("True", "true", "1")]
     # each market's open interest over the participation pi of its first round (first_round_participation.py), so the
-    # round's sum is the loss the limit delta (1 - 2 mu) pi V of Corollary 1 needs
+    # round's sum is the loss the limit delta (1 - 2 mu) pi V of Theorems 1 and 2 needs
     fpp = {(r["roundId"], r["requestTime"], r["ancKey"]): float(r["pi_first"])
            for r in csv.DictReader(open(os.path.join(DATA, "first_round_participation.csv"), encoding="utf-8"))}
     key = {(p["roundId"], p["conditionId"]): (p["roundId"], p["requestTime"], p["ancKey"]) for p in pts}

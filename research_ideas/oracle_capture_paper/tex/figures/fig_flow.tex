@@ -1,64 +1,179 @@
-\documentclass[border=4pt]{standalone}
-% Adapted from OpenTikZ templates/flowchart (CC0). Palette names kept, mapped to the grayscale used in this paper.
-% Sized so that its natural width is close to one IEEE column: the text stays legible after \includegraphics.
-\usepackage{tikz}
-\usetikzlibrary{positioning, arrows.meta, shapes.geometric, shapes.misc, calc}
+% Figure 1: how a Polymarket question is settled across the two chains, with the
+% three things the paper measures marked by numbered badges (see the caption).
+% Visual language of the series (Paid at the Mark, Figure 2): cards with a header band
+% and a solid shadow, numbered badges; adapted from the OpenTikZ system-block-diagram
+% template (CC0), palette names mapped to the grayscale used in this paper.
+% Natural width is close to one IEEE column, so the text stays legible after \includegraphics.
+\documentclass[border=3pt]{standalone}
+\usepackage{amsmath}
 \usepackage{mathptmx}  % Times, to match the IEEEtran body text
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, calc}
 
-\definecolor{otblue}{gray}{0.42}
-\definecolor{otorange}{gray}{0.10}
-\definecolor{otteal}{gray}{0.68}
-\definecolor{otpurple}{gray}{0.10}
-\definecolor{otgray}{gray}{0.30}
+\definecolor{otgray}{gray}{0.10}    % ink
+\definecolor{otteal}{gray}{0.68}    % shadows
+\definecolor{otpurple}{gray}{0.42}  % Polygon lane
+\definecolor{otblue}{gray}{0.10}    % Ethereum lane
+\definecolor{otorange}{gray}{0.10}  % the three marks and tally settlement
 
-\begin{document}
 % ==== parameters =========================================================
-\def\rowsep{0.45}
-\def\boxminw{3.2}
-\def\boxminh{0.75}
-\def\startlabel{Market question expires\\(Polymarket, on Polygon)}
-\def\readlabel{Proposer posts an answer with a bond\\(Optimistic Oracle, 2-hour window)}
-\def\checklabel{Disputed?}
-\def\proclabel{Vote of UMA stakers on Ethereum\\commit 24 h, then reveal 24 h;\\resolves iff the top answer holds\\$>65\%$ of all staked UMA, else rolls}
-\def\endlabel{Market pays 0 / 1\\(or 50 / 50)}
-\def\errorlabel{Answer\\accepted}
-\def\yeslabel{yes}
-\def\nolabel{no}
+\def\lanew{8.70}      % lane width (cm)
+\def\tabw{0.62}       % lane tab width (cm)
+\def\ybot{2.12}       % top of the Ethereum lane (cm)
+\def\ytop{2.24}       % bottom of the Polygon lane (cm)
+\def\yend{4.98}       % top of the Polygon lane (cm)
+\def\ycard{3.62}      % centre of the Polygon cards (cm)
+\def\cardh{1.20cm}    % Polygon card height
+\def\headh{0.42cm}    % header band height
+\def\shadow{0.06}     % shadow offset (cm)
+\def\yvote{0.90}      % centre of the vote card (cm)
+\def\voteh{1.46cm}    % vote card height
+\def\barw{2.00}       % width of the stake bar (cm)
+\def\resline{0.65}    % resolution line, share of all staked UMA
+\def\topshare{0.80}   % illustrative share of the top answer
 % =========================================================================
 
-\begin{tikzpicture}[
-    node distance=\rowsep cm,
-    >={Stealth[length=2.0mm]},
-    base/.style={
-      line width=0.6pt, align=center, font=\small,
-      minimum width=\boxminw cm, minimum height=\boxminh cm, inner xsep=4pt,
-    },
-    terminal/.style={base, shape=rounded rectangle, draw=otgray, fill=otteal!25},
-    process/.style={base, rounded corners=2pt, draw=otgray, fill=otblue!18},
-    decision/.style={base, shape=diamond, aspect=2.4, inner sep=0.5pt,
-      draw=otorange, fill=white, minimum width=2.0cm, minimum height=0.8cm},
-    flow/.style={draw=otgray, line width=0.7pt, ->},
-    loop/.style={draw=otpurple, line width=0.7pt, ->, dashed},
-    elabel/.style={font=\footnotesize, text=otgray},
-  ]
+\tikzset{
+  glyph/.style={draw=otgray, line width=0.55pt, line cap=round, line join=round},
+  % a market: three candles
+  candleicon/.pic={
+    \draw[glyph] (-0.11,-0.13) -- (-0.11,0.09);
+    \filldraw[glyph, fill=otgray] (-0.145,-0.07) rectangle (-0.075,0.04);
+    \draw[glyph] (0,-0.09) -- (0,0.14);
+    \filldraw[glyph, fill=white] (-0.035,-0.03) rectangle (0.035,0.10);
+    \draw[glyph] (0.11,-0.14) -- (0.11,0.07);
+    \filldraw[glyph, fill=otgray] (0.075,-0.10) rectangle (0.145,0.01);
+  },
+  % a proposal: a page with a bond seal
+  docicon/.pic={
+    \filldraw[glyph, fill=white] (-0.10,-0.14) -- (-0.10,0.14) -- (0.04,0.14) -- (0.10,0.08) -- (0.10,-0.14) -- cycle;
+    \draw[glyph] (0.04,0.14) -- (0.04,0.08) -- (0.10,0.08);
+    \draw[glyph, line width=0.4pt] (-0.06,0.07) -- (0.01,0.07) (-0.06,0.02) -- (0.05,0.02) (-0.06,-0.03) -- (0.0,-0.03);
+    \filldraw[glyph, fill=white] (0.075,-0.10) circle[radius=0.06];
+    \fill[otgray] (0.075,-0.10) circle[radius=0.025];
+  },
+  % a payout: a stack of coins
+  coinicon/.pic={
+    \foreach \y in {-0.12,-0.06,0.00} {
+      \filldraw[glyph, fill=white] (-0.13,\y) arc[start angle=180, end angle=360, x radius=0.13, y radius=0.045]
+        -- (0.13,\y+0.04) arc[start angle=0, end angle=180, x radius=0.13, y radius=0.045] -- cycle;
+      \draw[glyph] (0,\y+0.04) ellipse[x radius=0.13, y radius=0.045];
+    }
+  },
+  % a vote: a ballot entering a box
+  ballot/.pic={
+    \filldraw[glyph, fill=white] (-0.05,-0.02) rectangle (0.07,0.17);
+    \draw[glyph, line width=0.45pt] (-0.025,0.10) -- (0.0,0.075) -- (0.045,0.135);
+    \filldraw[glyph, fill=white] (-0.14,-0.15) rectangle (0.14,0.03);
+    \draw[glyph, line width=1.0pt] (-0.08,0.03) -- (0.10,0.03);
+  },
+  % a bridge: two chain links
+  linkicon/.pic={
+    \draw[glyph, line width=0.65pt, rounded corners=1.6pt] (-0.17,-0.05) rectangle (0.02,0.05);
+    \draw[glyph, line width=0.65pt, rounded corners=1.6pt] (-0.02,-0.05) rectangle (0.17,0.05);
+  },
+  % a chain: three linked blocks, drawn white on the lane tab
+  blocksicon/.pic={
+    \foreach \y in {-0.20,0,0.20} \draw[white, line width=0.5pt] (-0.065,\y-0.065) rectangle (0.065,\y+0.065);
+    \draw[white, line width=0.5pt] (0,-0.135) -- (0,-0.065) (0,0.065) -- (0,0.135);
+  },
+  slot/.style={inner sep=0pt},
+  flow/.style={draw=otgray, line width=0.95pt, -{Stealth[length=2.3mm, width=1.8mm]}},
+  turn/.style={draw=otgray, line width=0.55pt, -{Stealth[open, length=1.9mm, width=1.5mm]}},
+  title/.style={font=\footnotesize\bfseries, text=otgray, anchor=west, inner sep=0pt},
+  body/.style={font=\footnotesize\itshape, text=otgray, align=center, inner sep=0pt},
+  note/.style={font=\scriptsize\itshape, text=otgray, align=center, inner sep=1pt},
+  badge/.style={circle, fill=otorange, text=white, font=\scriptsize\bfseries, inner sep=0pt, minimum size=0.34cm},
+}
 
-  \node[terminal] (start) {\startlabel};
-  \node[process,  below=of start] (read)  {\readlabel};
-  \node[decision, below=of read]  (check) {\checklabel};
-  \node[process,  below=of check] (proc)  {\proclabel};
-  \node[terminal, below=of proc]  (end)   {\endlabel};
-  \node[process, minimum width=1.5cm] (error) at (check -| proc.east) [xshift=0.2cm, anchor=west] {\errorlabel};
+% \lane{colour}{y0}{y1}{chain}{token}: a swimlane with a dark tab
+\newcommand{\lane}[5]{%
+  \fill[#1!7, rounded corners=4pt] (0,#2) rectangle (\lanew,#3);
+  \begin{scope}
+    \clip[rounded corners=4pt] (0,#2) rectangle (\lanew,#3);
+    \fill[#1] (0,#2) rectangle (\tabw,#3);
+  \end{scope}
+  \draw[#1!60, line width=0.4pt, rounded corners=4pt] (0,#2) rectangle (\lanew,#3);
+  \pic at ({0.5*\tabw}, {#3-0.33}) {blocksicon};
+  \node[rotate=90, text=white, font=\scriptsize, align=center, inner sep=0pt]
+    at ({0.5*\tabw}, {0.5*(#2+#3-0.62)}) {\textbf{#4}\\[-1pt]#5};
+}
+% \cardface{node}{lane colour}{icon}{title}: card with shadow and a tinted header band
+\newcommand{\cardface}[4]{%
+  \fill[otteal, rounded corners=3pt] ([shift={(\shadow,-\shadow)}]#1.south west) rectangle ([shift={(\shadow,-\shadow)}]#1.north east);
+  \fill[white, rounded corners=3pt] (#1.south west) rectangle (#1.north east);
+  \begin{scope}
+    \clip[rounded corners=3pt] (#1.south west) rectangle (#1.north east);
+    \fill[#2!18] ([yshift=-\headh]#1.north west) rectangle (#1.north east);
+  \end{scope}
+  \draw[otgray, line width=0.35pt] ([yshift=-\headh]#1.north west) -- ([yshift=-\headh]#1.north east);
+  \draw[otgray, line width=0.75pt, rounded corners=3pt] (#1.south west) rectangle (#1.north east);
+  \pic at ([xshift=0.26cm, yshift=-0.5*\headh]#1.north west) {#3};
+  \node[title] at ([xshift=0.50cm, yshift=-0.5*\headh]#1.north west) {#4};
+}
 
-  \draw[flow] (start) -- (read);
-  \draw[flow] (read)  -- (check);
-  \draw[flow] (check) -- (proc) node[midway, right, elabel] {\yeslabel};
-  \draw[flow] (proc)  -- (end);
-  \draw[flow] (check) -- (error) node[midway, above, elabel] {\nolabel};
-  \draw[flow] (error.south) |- (end.east);
-  % reset loop: routed outside the proposer box, so the arrow never crosses its text
-  \path (read.west) ++(-0.35,0) coordinate (lx);
-  \draw[loop] (check.west) -- (check.west -| lx) -- (read.west -| lx) -- (read.west);
-  \node[elabel, left, align=right, text=otpurple] at ($(check.west -| lx)!0.5!(read.west -| lx)$)
-    {first\\dispute\\resets\\once};
+\begin{document}
+\begin{tikzpicture}
+  % ===================== lanes =====================
+  \lane{otblue}{0}{\ybot}{Ethereum}{UMA}
+  \lane{otpurple}{\ytop}{\yend}{Polygon}{USDC}
+
+  % ===================== Polygon: market, proposal, payout =====================
+  \node[slot, minimum width=1.82cm, minimum height=\cardh] (M) at (1.79,\ycard) {};
+  \node[slot, minimum width=1.98cm, minimum height=\cardh] (P) at (4.50,\ycard) {};
+  \node[slot, minimum width=1.74cm, minimum height=\cardh] (D) at (7.62,\ycard) {};
+  \cardface{M}{otpurple}{candleicon}{Market}
+  \cardface{P}{otpurple}{docicon}{Proposal}
+  \cardface{D}{otpurple}{coinicon}{Payout}
+  \node[body] at ($(M.south)!0.5!([yshift=-\headh]M.north)$) {open interest};
+  \node[body] at ($(P.south)!0.5!([yshift=-\headh]P.north)$) {answer + bond,\\2 h to dispute};
+  \node[body] at ($(D.south)!0.5!([yshift=-\headh]D.north)$) {0/1 or 50/50};
+  \node[badge] at (M.north west) {1};
+
+  \draw[flow] (M.east) -- node[note, above=1pt] {expiry} (P.west);
+  \draw[flow] (P.east) -- node[note, above=1pt] {undisputed} (D.west);
+  \draw[turn] ([xshift=0.40cm]P.north) .. controls +(0.10,0.42) and +(-0.10,0.42) .. ([xshift=-0.40cm]P.north);
+  \node[note, anchor=south] at ($(P.north)+(0,0.36)$) {first dispute: reset once};
+
+  % ===================== Ethereum: the vote =====================
+  \node[slot, minimum width=3.60cm, minimum height=\voteh] (V) at (4.50,\yvote) {};
+  \cardface{V}{otblue}{ballot}{DVM vote}
+  \node[body] at ($(V.north)+(0,-\headh-0.20cm)$) {commit 24 h, reveal 24 h};
+  % the top answer's share of all staked UMA, the line, and the margin beyond it
+  \coordinate (b0) at ($(V.center)+(-1.30,-0.26)$);
+  \fill[otblue!14] (b0) rectangle ++(\barw,0.15);
+  \fill[otblue!45] (b0) rectangle ++({\resline*\barw},0.15);
+  \fill[otorange] ($(b0)+({\resline*\barw},0)$) rectangle ($(b0)+({\topshare*\barw},0.15)$);
+  \draw[otgray, line width=0.4pt] (b0) rectangle ++(\barw,0.15);
+  \draw[otgray, line width=0.9pt] ($(b0)+({\resline*\barw},-0.08)$) -- ++(0,0.31);
+  \node[note, anchor=north] at ($(b0)+({\resline*\barw},-0.08)$) {65\% of staked UMA};
+  \node[badge] at ($(b0)+(\barw+0.33,0.075)$) {2};
+  % rolls when no answer clears the line
+  \draw[turn] ([yshift=0.26cm]V.west) .. controls +(-0.62,0.06) and +(-0.62,-0.06) .. ([yshift=-0.26cm]V.west);
+  \node[note, anchor=east] at ($(V.west)+(-0.58,0)$) {else rolls;\\deleted\\after four};
+
+  % ===================== between the chains =====================
+  % down: a second dispute crosses the bridge
+  \node[slot, minimum width=1.25cm, minimum height=0.36cm] (B) at (4.50,{0.5*(\ybot+\ytop)}) {};
+  \filldraw[fill=white, draw=otgray, line width=0.6pt, rounded corners=0.18cm] (B.south west) rectangle (B.north east);
+  \pic at ([xshift=0.28cm]B.west) {linkicon};
+  \node[font=\scriptsize, text=otgray, anchor=west, inner sep=0pt] at ([xshift=0.52cm]B.west) {bridge};
+  \draw[flow] (P.south) -- (B.north);
+  \node[note, anchor=west] at ($(P.south)!0.5!(B.north)+(0.08,0)$) {second dispute};
+  \draw[flow] (B.south) -- (B.south |- V.north);
+
+  % up: the payout rule turns the tally into a payout
+  \node[slot, minimum width=1.50cm, minimum height=0.86cm] (R) at (7.62,{0.5*(\ybot+\ytop)}) {};
+  \fill[otteal, rounded corners=3pt] ([shift={(\shadow,-\shadow)}]R.south west) rectangle ([shift={(\shadow,-\shadow)}]R.north east);
+  \filldraw[fill=white, draw=otgray, line width=0.75pt, rounded corners=3pt] (R.south west) rectangle (R.north east);
+  \begin{scope}[shift={($(R.center)+(-0.42,-0.04)$)}]
+    \draw[otgray, line width=0.4pt] (0,0) -- (0.84,0);
+    \draw[otgray, line width=0.9pt] (0,0) -- (0.42,0) -- (0.42,0.30) -- (0.84,0.30);
+    \draw[otorange, line width=0.9pt, dash pattern=on 1.6pt off 1.1pt] (0.17,0) -- (0.67,0.30);
+  \end{scope}
+  \node[note] at ($(R.south)+(0,0.17)$) {payout rule};
+  \node[badge] at (R.north west) {3};
+  \draw[flow] (V.east) -| (R.south);
+  \draw[flow] (R.north) -- (R.north |- D.south);
 \end{tikzpicture}
 \end{document}
